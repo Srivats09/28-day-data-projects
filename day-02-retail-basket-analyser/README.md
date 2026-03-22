@@ -23,6 +23,15 @@ Source: archive.ics.uci.edu (no login required)
 - Rules with lift > 2: 655 out of 4,942 total rules
 - Recommendation: Bundle all 3 Regency teacup variants as a set
 
+## Business Context
+This dataset is a UK wholesale retailer — most customers are small 
+shop owners buying stock, not individual consumers. The high lift on 
+teacup colour variants (Green/Pink/Roses Regency) reflects customers 
+buying the full collection set. This maps directly to 3 actions:
+- Bundle the 3 SKUs as a "Regency Collection Set of 3"
+- Co-locate all variants on the same shelf/page
+- Promote with "buy 2 get 3rd half price" — lift of 15x justifies it
+
 ## Output
 ![Basket Analysis](basket_analysis.png)
 
