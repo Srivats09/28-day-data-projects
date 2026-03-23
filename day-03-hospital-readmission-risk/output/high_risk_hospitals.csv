@@ -1,0 +1,2 @@
+Facility ID,Facility Name,State,avg_err,max_err,conditions_at_risk,conditions_measured,total_discharges,total_readmissions,err_score,breadth_score,volume_score,risk_score,risk_tier
+50030,OROVILLE HOSPITAL,CA,1.24836,1.4255,5,5,1268.0,384.0,10.0,8.33,3.15,8.13,High Risk
