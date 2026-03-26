@@ -1,35 +1,42 @@
-# Day 04: Smart Meter Energy ETL Pipeline
+# Day 4: Smart Meter Energy ETL Pipeline
 
 **Industry:** Energy / Utilities  
-**Format:** Python Script (.py)  
-**Skills:** pandas · sqlite3 · matplotlib · ETL pipeline · anomaly detection
-
-**Data:** UCI Household Power Consumption — 2,049,280 minute-level smart meter readings from a real French household (2006–2010)
-
----
+**Format:** Python script (.py)  
+**Skills:** ETL · pandas · sqlite3 · chunked processing · data validation · matplotlib
 
 ## Who uses this
-A **utility data engineer or energy analyst** who needs raw smart meter flat files cleaned, enriched, and loaded into a queryable database — so operations teams can detect waste, flag anomalies, and report on consumption patterns without touching the raw CSV.
+An energy analyst running weekly consumption reports from raw meter 
+data. This pipeline takes 2M+ rows of messy minute-level readings 
+and produces a clean, queryable SQLite database with hourly 
+aggregations ready for analysis.
 
 ## Problem
-Smart meters generate millions of minute-level readings as messy flat files with missing values, inconsistent formats, and no derived metrics. Without a pipeline, analysts can't answer basic questions: when is peak demand? which appliances consume the most? what readings are anomalous? This script automates the full Extract → Transform → Load cycle and answers those questions immediately.
+Raw smart meter data arrives as large, semicolon-separated files 
+with missing values, wrong types, and no structure. Without a 
+pipeline, analysts waste hours cleaning data manually before any 
+analysis can begin.
 
-## What this does
-1. **Extract** — loads 2M+ rows from raw semicolon-delimited meter file, handles `?` missing values
-2. **Transform** — parses datetime, casts numeric columns, engineers energy (kWh), anomaly flag (3σ), weekend/weekday split
-3. **Load** — writes clean data to SQLite with 3 analytical views (monthly summary, hourly profile, sub-meter breakdown)
-4. **Insight** — prints a business insight summary with findings and recommendations
+## ETL Pattern
+- **Extract** — loads 2,075,259 rows in chunks of 100k (memory efficient)
+- **Transform** — cleans nulls, fixes types, engineers features, resamples to hourly
+- **Load** — writes clean data into SQLite (34,168 hourly records)
+- **Validate** — 4 SQL integrity checks, all passing
+
+## Dataset
+UCI Individual Household Electric Power Consumption  
+Source: archive.ics.uci.edu — real minute-level readings 2006–2010  
+4 years of data · 2,075,259 raw rows · 9 columns
 
 ## Key Findings
-- Dataset span: 2006-12-16 → 2010-11-26 | 2,049,280 readings | 37,284 kWh total
-- Peak demand at **20:00** — shift high-draw appliances off-peak to reduce bills and grid stress
-- **1,004 kWh seasonal swing** between December (1,210 kWh) and August (206 kWh) — confirms heavy winter heating load
-- **36,160 anomalous readings** (1.76%) flagged — review for faulty appliances or meter faults
-- Untracked consumption (63.7 kWh) exceeds HVAC sub-meter (55.2 kWh) — further metering on lighting circuits recommended
+- Total energy consumed: 37,284 kWh across 48 months
+- Peak consumption hour: 20:00 — highest household demand
+- Lowest consumption hour: 04:00 — best window for EV charging
+- Peak month: December 2007 — winter heating demand
+- Weekend consumption is 19.1% higher than weekday
+- Pipeline runs end-to-end in 29.9s — schedulable via cron job
 
 ## Output
-![Monthly Consumption](charts/monthly_consumption.png)
-![Hourly Profile](charts/hourly_profile.png)
+![Consumption Analysis](consumption_analysis.png)
 
 ## How to run
 ```bash
@@ -37,9 +44,10 @@ pip install -r requirements.txt
 python etl_pipeline.py
 ```
 
-The script downloads nothing — point it at your own `household_power_consumption.txt` file.  
-Download dataset: https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
-```
-
-
+## Pipeline output files
+- `smart_meter.db` — SQLite database with hourly_consumption and monthly_summary tables
+- `consumption_analysis.png` — 4-panel consumption chart
+- `output/consumption_by_hour.csv`
+- `output/consumption_by_day.csv`
+- `output/monthly_consumption.csv`
 ```
