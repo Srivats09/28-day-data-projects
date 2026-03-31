@@ -1,0 +1,12 @@
+owner_department,total_requests,breaches,breach_rate,avg_days,avg_excess,total_excess_days
+DOB - Buildings,1733,1329,76.7,47.8,39.0,67640.0
+Health,82,60,73.2,60.4,52.3,4291.7
+CDOT - Department of Transportation,27430,15832,57.7,46.2,38.9,1067795.5
+BACP - Business Affairs and Consumer Protection,179,95,53.1,30.4,22.9,4092.0
+Streets and Sanitation,9085,3785,41.7,40.4,35.1,318494.2
+Animal Care and Control,603,236,39.1,22.0,16.6,9999.2
+DWM - Department of Water Management,2573,825,32.1,36.1,31.5,81168.9
+Outside Agencies,43,12,27.9,31.5,28.6,1230.3
+311 City Services,2304,0,0.0,0.0,0.0,0.0
+Aviation,1304,0,0.0,0.0,0.0,0.0
+Finance,52,0,0.0,0.0,0.0,0.0
