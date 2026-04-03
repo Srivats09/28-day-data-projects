@@ -38,8 +38,3 @@ buying the full collection set. This maps directly to 3 actions:
 ## How to run
 pip install -r requirements.txt
 jupyter notebook analysis.ipynb
-```
-
-Then commit and push:
-```
-Day 2: retail basket association analyser — pandas + numpy + lift 15x on teacup pairs
