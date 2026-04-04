@@ -1,0 +1,11 @@
+generic_name,category,days_in_shortage,availability,manufacturer
+Fentanyl Citrate Injection,Pain/Opioids,5207,Available,"Fresenius Kabi USA, LLC"
+Atropine Sulfate Injection,Anticholinergics,5207,Available,"American Regent, Inc."
+Fentanyl Citrate Injection,Pain/Opioids,5207,Available,"Hospira, Inc."
+Fentanyl Citrate Injection,Pain/Opioids,5207,Unavailable,"Fresenius Kabi USA, LLC"
+Atropine Sulfate Injection,Anticholinergics,5207,Available,"Hospira, Inc."
+Atropine Sulfate Injection,Anticholinergics,5207,Unavailable,"Hospira, Inc."
+Fentanyl Citrate Injection,Pain/Opioids,5207,Available,"Hospira, Inc."
+Fentanyl Citrate Injection,Pain/Opioids,5207,Unavailable,"Fresenius Kabi USA, LLC"
+Fentanyl Citrate Injection,Pain/Opioids,5207,Unavailable,"Hospira, Inc."
+Atropine Sulfate Injection,Anticholinergics,5207,Available,"Medefil, Inc."

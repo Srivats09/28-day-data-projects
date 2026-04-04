@@ -1,0 +1,287 @@
+generic_name,brand_name,manufacturer,category,availability,severity,days_in_shortage,posting_date,route
+Fentanyl Citrate Injection,FENTANYL CITRATE,"Fresenius Kabi USA, LLC",Pain/Opioids,Unavailable,Critical,5207,2012-01-01,"INTRAMUSCULAR, INTRAVENOUS"
+Atropine Sulfate Injection,,,Anticholinergics,Unavailable,Critical,5207,2012-01-01,
+Atropine Sulfate Injection,ATROPINE SULFATE,"Hospira, Inc.",Anticholinergics,Unavailable,Critical,5207,2012-01-01,INTRAVENOUS
+Atropine Sulfate Injection,,,Anticholinergics,Unavailable,Critical,5207,2012-01-01,
+Atropine Sulfate Injection,ATROPINE SULFATE,Accord Healthcare Inc.,Anticholinergics,Unavailable,Critical,5207,2012-01-01,"ENDOTRACHEAL, INTRAMEDULLARY, INTRAMUSCULAR, INTRAVENOUS, SUBCUTANEOUS"
+Fentanyl Citrate Injection,FENTANYL CITRATE,"Fresenius Kabi USA, LLC",Pain/Opioids,Unavailable,Critical,5207,2012-01-01,"INTRAMUSCULAR, INTRAVENOUS"
+Fentanyl Citrate Injection,FENTANYL CITRATE,"Fresenius Kabi USA, LLC",Pain/Opioids,Unavailable,Critical,5207,2012-01-01,"INTRAMUSCULAR, INTRAVENOUS"
+Fentanyl Citrate Injection,FENTANYL CITRATE,"Fresenius Kabi USA, LLC",Pain/Opioids,Unavailable,Critical,5207,2012-01-01,"INTRAMUSCULAR, INTRAVENOUS"
+Fentanyl Citrate Injection,FENTANYL CITRATE,"Hospira, Inc.",Pain/Opioids,Unavailable,Critical,5207,2012-01-01,"INTRAMUSCULAR, INTRAVENOUS"
+Atropine Sulfate Injection,,,Anticholinergics,Unavailable,Critical,5207,2012-01-01,
+Atropine Sulfate Injection,,,Anticholinergics,Unavailable,Critical,5207,2012-01-01,
+"Epinephrine Bitartrate, Lidocaine Hydrochloride Injection",LIDOCAINE HYDROCHLORIDE AND EPINEPHRINE,"Hospira, Inc.",Cardiovascular,Unavailable,Critical,5155,2012-02-22,"EPIDURAL, INFILTRATION, INTRACAUDAL, PERINEURAL"
+Lidocaine Hydrochloride Injection,LIDOCAINE HYDROCHLORIDE,"Hospira, Inc.",Other,Unavailable,Critical,5155,2012-02-22,INTRAVENOUS
+"Epinephrine Bitartrate, Lidocaine Hydrochloride Injection",LIDOCAINE HYDROCHLORIDE AND EPINEPHRINE,"Hospira, Inc.",Cardiovascular,Unavailable,Critical,5155,2012-02-22,"INFILTRATION, PERINEURAL"
+Lidocaine Hydrochloride Injection,XYLOCAINE MPF,"Fresenius Kabi USA, LLC",Other,Unavailable,Critical,5155,2012-02-22,"EPIDURAL, INFILTRATION, INTRACAUDAL, PERINEURAL"
+Lidocaine Hydrochloride Injection,XYLOCAINE MPF,"Fresenius Kabi USA, LLC",Other,Unavailable,Critical,5155,2012-02-22,"EPIDURAL, INFILTRATION, INTRACAUDAL, PERINEURAL"
+Lidocaine Hydrochloride Injection,,,Other,Unavailable,Critical,5155,2012-02-22,
+Lidocaine Hydrochloride Injection,,,Other,Unavailable,Critical,5155,2012-02-22,
+Lidocaine Hydrochloride Injection,XYLOCAINE MPF,"Fresenius Kabi USA, LLC",Other,Unavailable,Critical,5155,2012-02-22,"EPIDURAL, INFILTRATION, INTRACAUDAL, PERINEURAL"
+Lidocaine Hydrochloride Injection,XYLOCAINE MPF,"Fresenius Kabi USA, LLC",Other,Unavailable,Critical,5155,2012-02-22,"EPIDURAL, INFILTRATION, INTRACAUDAL, PERINEURAL"
+"Epinephrine Bitartrate, Lidocaine Hydrochloride Injection",LIDOCAINE HYDROCHLORIDE AND EPINEPHRINE,"Hospira, Inc.",Cardiovascular,Unavailable,Critical,5155,2012-02-22,"INFILTRATION, PERINEURAL"
+Lidocaine Hydrochloride Injection,XYLOCAINE,"Fresenius Kabi USA, LLC",Other,Unavailable,Critical,5155,2012-02-22,"INFILTRATION, PERINEURAL"
+Lidocaine Hydrochloride Injection,LIDOCAINE HYDROCHLORIDE,"Hospira, Inc.",Other,Unavailable,Critical,5155,2012-02-22,"INFILTRATION, PERINEURAL"
+"Cefotaxime Sodium Powder, for Solution",CEFOTAXIME,Hikma Pharmaceuticals USA Inc.,Other,Unavailable,Critical,4064,2015-02-17,"INTRAMUSCULAR, INTRAVENOUS"
+"Cefotaxime Sodium Powder, for Solution",CEFOTAXIME,Hikma Pharmaceuticals USA Inc.,Other,Unavailable,Critical,4064,2015-02-17,"INTRAMUSCULAR, INTRAVENOUS"
+"Cefotaxime Sodium Powder, for Solution",CEFOTAXIME,Hikma Pharmaceuticals USA Inc.,Other,Unavailable,Critical,4064,2015-02-17,INTRAVENOUS
+"Cefotaxime Sodium Powder, for Solution",CEFOTAXIME,Hikma Pharmaceuticals USA Inc.,Other,Unavailable,Critical,4064,2015-02-17,"INTRAMUSCULAR, INTRAVENOUS"
+Sodium Acetate Injection,SODIUM ACETATE,Hikma Pharmaceuticals USA Inc.,Other,Unavailable,Critical,3713,2016-02-03,INTRAVENOUS
+"Epinephrine Bitartrate, Lidocaine Hydrochloride Injection",XYLOCAINE MPF,"Fresenius Kabi USA, LLC",Cardiovascular,Unavailable,Critical,3459,2016-10-14,"EPIDURAL, INFILTRATION, INTRACAUDAL, PERINEURAL"
+"Epinephrine Bitartrate, Lidocaine Hydrochloride Injection",XYLOCAINE MPF,"Fresenius Kabi USA, LLC",Cardiovascular,Unavailable,Critical,3459,2016-10-14,"EPIDURAL, INFILTRATION, INTRACAUDAL, PERINEURAL"
+Sodium Bicarbonate Injection,,,IV Fluids,Unavailable,Critical,3321,2017-03-01,
+Sodium Bicarbonate Injection,SODIUM BICARBONATE,"Hospira, Inc.",IV Fluids,Unavailable,Critical,3321,2017-03-01,INTRAVENOUS
+Sodium Bicarbonate Injection,SODIUM BICARBONATE,"Hospira, Inc.",IV Fluids,Unavailable,Critical,3321,2017-03-01,INTRAVENOUS
+Sodium Bicarbonate Injection,,,IV Fluids,Unavailable,Critical,3321,2017-03-01,
+Sodium Bicarbonate Injection,,,IV Fluids,Unavailable,Critical,3321,2017-03-01,
+Sodium Bicarbonate Injection,SODIUM BICARBONATE,"Hospira, Inc.",IV Fluids,Unavailable,Critical,3321,2017-03-01,INTRAVENOUS
+Sodium Bicarbonate Injection,SODIUM BICARBONATE,"Hospira, Inc.",IV Fluids,Unavailable,Critical,3321,2017-03-01,INTRAVENOUS
+Sodium Bicarbonate Injection,SODIUM BICARBONATE,"Fresenius Kabi USA, LLC",IV Fluids,Unavailable,Critical,3176,2017-07-24,INTRAVENOUS
+Hydromorphone Hydrochloride Injection,HYDROMORPHONE HYDROCHLORIDE,"Fresenius Kabi USA, LLC",Pain/Opioids,Unavailable,Critical,3077,2017-10-31,"INTRAMUSCULAR, INTRAVENOUS, SUBCUTANEOUS"
+Hydromorphone Hydrochloride Injection,HYDROMORPHONE HYDROCHLORIDE,"Hospira, Inc.",Pain/Opioids,Unavailable,Critical,3077,2017-10-31,"INTRAMUSCULAR, INTRAVENOUS, SUBCUTANEOUS"
+Hydromorphone Hydrochloride Injection,HYDROMORPHONE HYDROCHLORIDE,"Hospira, Inc.",Pain/Opioids,Unavailable,Critical,3077,2017-10-31,"INTRAMUSCULAR, INTRAVENOUS, SUBCUTANEOUS"
+Morphine Sulfate Injection,MORPHINE SULFATE,"Fresenius Kabi USA, LLC",Pain/Opioids,Unavailable,Critical,3077,2017-10-31,"INTRAMUSCULAR, INTRAVENOUS"
+Hydromorphone Hydrochloride Injection,HYDROMORPHONE HYDROCHLORIDE,"Fresenius Kabi USA, LLC",Pain/Opioids,Unavailable,Critical,3077,2017-10-31,"INTRAMUSCULAR, INTRAVENOUS, SUBCUTANEOUS"
+Hydromorphone Hydrochloride Injection,DILAUDID,"Fresenius Kabi USA, LLC",Pain/Opioids,Unavailable,Critical,3077,2017-10-31,"INTRAMUSCULAR, INTRAVENOUS, SUBCUTANEOUS"
+Morphine Sulfate Injection,MORPHINE SULFATE,"Fresenius Kabi, USA LLC, Fresenius Kabi USA, LLC",Pain/Opioids,Unavailable,Critical,3077,2017-10-31,"INTRAMUSCULAR, INTRAVENOUS"
+Hydromorphone Hydrochloride Injection,HYDROMORPHONE HYDROCHLORIDE,"Hospira, Inc.",Pain/Opioids,Unavailable,Critical,3077,2017-10-31,"INTRAMUSCULAR, INTRAVENOUS, SUBCUTANEOUS"
+Hydromorphone Hydrochloride Injection,HYDROMORPHONE HYDROCHLORIDE,"Fresenius Kabi USA, LLC",Pain/Opioids,Unavailable,Critical,3077,2017-10-31,"INTRAMUSCULAR, INTRAVENOUS, SUBCUTANEOUS"
+Hydromorphone Hydrochloride Injection,HYDROMORPHONE HYDROCHLORIDE,"Fresenius Kabi USA, LLC",Pain/Opioids,Unavailable,Critical,3077,2017-10-31,"INTRAMUSCULAR, INTRAVENOUS, SUBCUTANEOUS"
+Hydromorphone Hydrochloride Injection,HYDROMORPHONE HYDROCHLORIDE,"Hospira, Inc.",Pain/Opioids,Unavailable,Critical,3077,2017-10-31,"INTRAMUSCULAR, INTRAVENOUS, SUBCUTANEOUS"
+Morphine Sulfate Injection,MORPHINE SULFATE,"Fresenius Kabi USA, LLC",Pain/Opioids,Unavailable,Critical,3077,2017-10-31,"INTRAMUSCULAR, INTRAVENOUS"
+Hydromorphone Hydrochloride Injection,DILAUDID,"Fresenius Kabi USA, LLC",Pain/Opioids,Unavailable,Critical,3077,2017-10-31,"INTRAMUSCULAR, INTRAVENOUS, SUBCUTANEOUS"
+Morphine Sulfate Injection,MORPHINE SULFATE,"Fresenius Kabi USA, LLC",Pain/Opioids,Unavailable,Critical,3077,2017-10-31,"INTRAMUSCULAR, INTRAVENOUS"
+Morphine Sulfate Injection,MORPHINE SULFATE,"Fresenius Kabi USA, LLC",Pain/Opioids,Unavailable,Critical,3077,2017-10-31,"INTRAMUSCULAR, INTRAVENOUS"
+Morphine Sulfate Injection,MORPHINE SULFATE,"Fresenius Kabi, USA LLC, Fresenius Kabi USA, LLC",Pain/Opioids,Unavailable,Critical,3077,2017-10-31,"INTRAMUSCULAR, INTRAVENOUS"
+Hydromorphone Hydrochloride Injection,DILAUDID,"Fresenius Kabi USA, LLC",Pain/Opioids,Unavailable,Critical,3076,2017-11-01,"INTRAMUSCULAR, INTRAVENOUS, SUBCUTANEOUS"
+Hydromorphone Hydrochloride Injection,HYDROMORPHONE HYDROCHLORIDE,"Fresenius Kabi USA, LLC",Pain/Opioids,Unavailable,Critical,3076,2017-11-01,"INTRAMUSCULAR, INTRAVENOUS, SUBCUTANEOUS"
+Hydromorphone Hydrochloride Injection,DILAUDID,"Fresenius Kabi USA, LLC",Pain/Opioids,Unavailable,Critical,3076,2017-11-01,"INTRAMUSCULAR, INTRAVENOUS, SUBCUTANEOUS"
+Morphine Sulfate Injection,INFUMORPH 200,Hikma Pharmaceuticals USA Inc.,Pain/Opioids,Unavailable,Critical,3074,2017-11-03,"EPIDURAL, INTRATHECAL"
+Morphine Sulfate Injection,INFUMORPH 500,Hikma Pharmaceuticals USA Inc.,Pain/Opioids,Unavailable,Critical,3074,2017-11-03,"EPIDURAL, INTRATHECAL"
+Morphine Sulfate Injection,MORPHINE SULFATE,Hikma Pharmaceuticals USA Inc.,Pain/Opioids,Unavailable,Critical,3074,2017-11-03,INTRAVENOUS
+Morphine Sulfate Injection,MORPHINE SULFATE,Hikma Pharmaceuticals USA Inc.,Pain/Opioids,Unavailable,Critical,3074,2017-11-03,INTRAVENOUS
+Dopamine Hydrochloride Injection,DOPAMINE HYDROCHLORIDE,Hikma Pharmaceuticals USA Inc.,Cardiovascular,Unavailable,Critical,3071,2017-11-06,INTRAVENOUS
+Dobutamine Hydrochloride Injection,DOBUTAMINE IN DEXTROSE,"Hospira, Inc.",Other,Unavailable,Critical,3071,2017-11-06,INTRAVENOUS
+Dopamine Hydrochloride Injection,DOPAMINE HYDROCHLORIDE IN DEXTROSE,"Hospira, Inc.",Cardiovascular,Unavailable,Critical,3071,2017-11-06,INTRAVENOUS
+Dobutamine Hydrochloride Injection,DOBUTAMINE IN DEXTROSE,"Hospira, Inc.",Other,Unavailable,Critical,3071,2017-11-06,INTRAVENOUS
+Dobutamine Hydrochloride Injection,DOBUTAMINE IN DEXTROSE,"Hospira, Inc.",Other,Unavailable,Critical,3071,2017-11-06,INTRAVENOUS
+Dobutamine Hydrochloride Injection,DOBUTAMINE,"Hospira, Inc.",Other,Unavailable,Critical,3071,2017-11-06,INTRAVENOUS
+Dopamine Hydrochloride Injection,DOPAMINE HYDROCHLORIDE,Hikma Pharmaceuticals USA Inc.,Cardiovascular,Unavailable,Critical,3071,2017-11-06,INTRAVENOUS
+Heparin Sodium Injection,HEPARIN SODIUM IN SODIUM CHLORIDE,Baxter Healthcare Corporation,Cardiovascular,Unavailable,Critical,3063,2017-11-14,INTRAVENOUS
+Heparin Sodium Injection,HEPARIN SODIUM IN SODIUM CHLORIDE,Baxter Healthcare Corporation,Cardiovascular,Unavailable,Critical,3063,2017-11-14,INTRAVENOUS
+Bumetanide Injection,BUMETANIDE,Sagent Pharmaceuticals,Other,Unavailable,Critical,2985,2018-01-31,"INTRAMUSCULAR, INTRAVENOUS"
+Bupivacaine Hydrochloride Injection,SENSORCAINE MPF,"Fresenius Kabi USA, LLC",Other,Unavailable,Critical,2965,2018-02-20,"EPIDURAL, INFILTRATION, INTRACAUDAL, PERINEURAL"
+Bupivacaine Hydrochloride Injection,BUPIVACAINE SPINAL,"Hospira, Inc.",Other,Unavailable,Critical,2965,2018-02-20,SUBARACHNOID
+"Bupivacaine Hydrochloride, Epinephrine Bitartrate Injection",SENSORCAINE MPF,"Fresenius Kabi USA, LLC",Cardiovascular,Unavailable,Critical,2965,2018-02-20,"EPIDURAL, INFILTRATION, INTRACAUDAL, PERINEURAL"
+"Bupivacaine Hydrochloride, Epinephrine Bitartrate Injection",BUPIVACAINE HYDROCHLORIDE AND EPINEPHRINE,"Hospira, Inc.",Cardiovascular,Unavailable,Critical,2965,2018-02-20,"EPIDURAL, INFILTRATION, INTRACAUDAL, PERINEURAL"
+Bupivacaine Hydrochloride Injection,BUPIVACAINE HYDROCHLORIDE,Eugia US LLC,Other,Unavailable,Critical,2965,2018-02-20,PERINEURAL
+Bupivacaine Hydrochloride Injection,SENSORCAINE MPF,"Fresenius Kabi USA, LLC",Other,Unavailable,Critical,2965,2018-02-20,"EPIDURAL, INTRACAUDAL, PERINEURAL, INFILTRATION"
+Bupivacaine Hydrochloride Injection,MARCAINE,"Hospira, Inc.",Other,Unavailable,Critical,2965,2018-02-20,"INFILTRATION, PERINEURAL"
+"Bupivacaine Hydrochloride, Epinephrine Bitartrate Injection",BUPIVACAINE HYDROCHLORIDE AND EPINEPHRINE,"Hospira, Inc.",Cardiovascular,Unavailable,Critical,2965,2018-02-20,"EPIDURAL, INFILTRATION, INTRACAUDAL, PERINEURAL"
+"Bupivacaine Hydrochloride, Epinephrine Bitartrate Injection",BUPIVACAINE HYDROCHLORIDE AND EPINEPHRINE,"Hospira, Inc.",Cardiovascular,Unavailable,Critical,2965,2018-02-20,"INFILTRATION, PERINEURAL"
+Bupivacaine Hydrochloride Injection,MARCAINE,"Hospira, Inc.",Other,Unavailable,Critical,2965,2018-02-20,"EPIDURAL, RETROBULBAR"
+"Bupivacaine Hydrochloride, Epinephrine Bitartrate Injection",BUPIVACAINE HYDROCHLORIDE AND EPINEPHRINE,"Hospira, Inc.",Cardiovascular,Unavailable,Critical,2965,2018-02-20,"EPIDURAL, INTRACAUDAL, PERINEURAL"
+"Bupivacaine Hydrochloride, Epinephrine Bitartrate Injection",MARCAINE WITH EPINEPHRINE,"Hospira, Inc.",Cardiovascular,Unavailable,Critical,2965,2018-02-20,"EPIDURAL, INFILTRATION, INTRACAUDAL, PERINEURAL"
+"Bupivacaine Hydrochloride, Epinephrine Bitartrate Injection",BUPIVACAINE HYDROCHLORIDE AND EPINEPHRINE,"Hospira, Inc.",Cardiovascular,Unavailable,Critical,2965,2018-02-20,"EPIDURAL, INTRACAUDAL, PERINEURAL"
+Lidocaine Hydrochloride Injection,LIDOCAINE HYDROCHLORIDE,Eugia US LLC,Other,Unavailable,Critical,2965,2018-02-20,"EPIDURAL, INFILTRATION, INTRACAUDAL, PERINEURAL"
+Lidocaine Hydrochloride Injection,LIDOCAINE HYDROCHLORIDE,Eugia US LLC,Other,Unavailable,Critical,2965,2018-02-20,"EPIDURAL, INFILTRATION, INTRACAUDAL, PERINEURAL"
+"Bupivacaine Hydrochloride, Epinephrine Bitartrate Injection",BUPIVACAINE HYDROCHLORIDE AND EPINEPHRINE,"Hospira, Inc.",Cardiovascular,Unavailable,Critical,2965,2018-02-20,PERINEURAL
+Ropivacaine Hydrochloride Injection,NAROPIN,"Fresenius Kabi USA, LLC",Other,Unavailable,Critical,2934,2018-03-23,"EPIDURAL, INFILTRATION"
+Ketorolac Tromethamine Injection,KETOROLAC TROMETHAMINE,"Fresenius Kabi USA, LLC",Analgesics/NSAIDs,Unavailable,Critical,2934,2018-03-23,"INTRAMUSCULAR, INTRAVENOUS"
+Ropivacaine Hydrochloride Injection,ROPIVACAINE HYDROCHLORIDE,Eugia US LLC,Other,Unavailable,Critical,2934,2018-03-23,EPIDURAL
+Ketorolac Tromethamine Injection,KETOROLAC TROMETHAMINE,"Fresenius Kabi USA, LLC",Analgesics/NSAIDs,Unavailable,Critical,2934,2018-03-23,INTRAMUSCULAR
+Ketorolac Tromethamine Injection,KETOROLAC TROMETHAMINE,"Fresenius Kabi USA, LLC",Analgesics/NSAIDs,Unavailable,Critical,2934,2018-03-23,"INTRAMUSCULAR, INTRAVENOUS"
+Ropivacaine Hydrochloride Injection,NAROPIN,"Fresenius Kabi USA, LLC",Other,Unavailable,Critical,2934,2018-03-23,EPIDURAL
+Ketorolac Tromethamine Injection,KETOROLAC TROMETHAMINE,"Fresenius Kabi USA, LLC",Analgesics/NSAIDs,Unavailable,Critical,2934,2018-03-23,INTRAMUSCULAR
+Ropivacaine Hydrochloride Injection,NAROPIN,"Fresenius Kabi USA, LLC",Other,Unavailable,Critical,2934,2018-03-23,"EPIDURAL, INFILTRATION"
+Ketorolac Tromethamine Injection,KETOROLAC TROMETHAMINE,"Fresenius Kabi USA, LLC",Analgesics/NSAIDs,Unavailable,Critical,2934,2018-03-23,"INTRAMUSCULAR, INTRAVENOUS"
+Ropivacaine Hydrochloride Injection,NAROPIN,"Fresenius Kabi USA, LLC",Other,Unavailable,Critical,2934,2018-03-23,EPIDURAL
+Ropivacaine Hydrochloride Injection,NAROPIN,"Fresenius Kabi USA, LLC",Other,Unavailable,Critical,2934,2018-03-23,"EPIDURAL, INFILTRATION"
+Ropivacaine Hydrochloride Injection,NAROPIN,"Fresenius Kabi USA, LLC",Other,Unavailable,Critical,2934,2018-03-23,"EPIDURAL, INFILTRATION"
+Ropivacaine Hydrochloride Injection,NAROPIN,"Fresenius Kabi USA, LLC",Other,Unavailable,Critical,2934,2018-03-23,"EPIDURAL, PERINEURAL"
+Ropivacaine Hydrochloride Injection,ROPIVACAINE HYDROCHLORIDE,Eugia US LLC,Other,Unavailable,Critical,2934,2018-03-23,"EPIDURAL, PERINEURAL"
+Ropivacaine Hydrochloride Injection,NAROPIN,"Fresenius Kabi USA, LLC",Other,Unavailable,Critical,2934,2018-03-23,"EPIDURAL, INFILTRATION"
+Ropivacaine Hydrochloride Injection,NAROPIN,"Fresenius Kabi USA, LLC",Other,Unavailable,Critical,2934,2018-03-23,"EPIDURAL, INFILTRATION, PERINEURAL"
+Ketorolac Tromethamine Injection,KETOROLAC TROMETHAMINE,"Fresenius Kabi USA, LLC",Analgesics/NSAIDs,Unavailable,Critical,2934,2018-03-23,INTRAMUSCULAR
+Ropivacaine Hydrochloride Injection,NAROPIN,"Fresenius Kabi USA, LLC",Other,Unavailable,Critical,2934,2018-03-23,"EPIDURAL, INFILTRATION, PERINEURAL"
+Ketorolac Tromethamine Injection,KETOROLAC TROMETHAMINE,"Hospira, Inc.",Analgesics/NSAIDs,Unavailable,Critical,2931,2018-03-26,"INTRAMUSCULAR, INTRAVENOUS"
+Lorazepam Injection,LORAZEPAM,Hikma Pharmaceuticals USA Inc.,Sedatives/Anesthesia,Unavailable,Critical,2893,2018-05-03,"INTRAMUSCULAR, INTRAVENOUS"
+Ketorolac Tromethamine Injection,KETOROLAC TROMETHAMINE,Hikma Pharmaceuticals USA Inc.,Analgesics/NSAIDs,Unavailable,Critical,2859,2018-06-06,INTRAMUSCULAR
+Ketorolac Tromethamine Injection,KETOROLAC TROMETHAMINE,Hikma Pharmaceuticals USA Inc.,Analgesics/NSAIDs,Unavailable,Critical,2859,2018-06-06,"INTRAMUSCULAR, INTRAVENOUS"
+Ketorolac Tromethamine Injection,KETOROLAC TROMETHAMINE,Hikma Pharmaceuticals USA Inc.,Analgesics/NSAIDs,Unavailable,Critical,2859,2018-06-06,"INTRAMUSCULAR, INTRAVENOUS"
+Ketorolac Tromethamine Injection,KETOROLAC TROMETHAMINE,Baxter Healthcare Corporation,Analgesics/NSAIDs,Unavailable,Critical,2859,2018-06-06,"INTRAMUSCULAR, INTRAVENOUS"
+Lidocaine Hydrochloride Injection,LIDOCAINE HYDROCHLORIDE,Eugia US LLC,Other,Unavailable,Critical,2852,2018-06-13,"INFILTRATION, PERINEURAL"
+Lidocaine Hydrochloride Injection,LIDOCAINE HYDROCHLORIDE,Eugia US LLC,Other,Unavailable,Critical,2852,2018-06-13,"INFILTRATION, PERINEURAL"
+Lidocaine Hydrochloride Injection,LIDOCAINE HYDROCHLORIDE,Eugia US LLC,Other,Unavailable,Critical,2852,2018-06-13,"INFILTRATION, PERINEURAL"
+Lorazepam Injection,LORAZEPAM,Hikma Pharmaceuticals USA Inc.,Sedatives/Anesthesia,Unavailable,Critical,2768,2018-09-05,"INTRAMUSCULAR, INTRAVENOUS"
+Lorazepam Injection,ATIVAN,Hikma Pharmaceuticals USA Inc.,Sedatives/Anesthesia,Unavailable,Critical,2768,2018-09-05,"INTRAMUSCULAR, INTRAVENOUS"
+Lorazepam Injection,ATIVAN,Hikma Pharmaceuticals USA Inc.,Sedatives/Anesthesia,Unavailable,Critical,2768,2018-09-05,"INTRAMUSCULAR, INTRAVENOUS"
+Lorazepam Injection,LORAZEPAM,Hikma Pharmaceuticals USA Inc.,Sedatives/Anesthesia,Unavailable,Critical,2768,2018-09-05,"INTRAMUSCULAR, INTRAVENOUS"
+Lorazepam Injection,ATIVAN,Hikma Pharmaceuticals USA Inc.,Sedatives/Anesthesia,Unavailable,Critical,2768,2018-09-05,"INTRAMUSCULAR, INTRAVENOUS"
+Dexamethasone Sodium Phosphate Injection,DEXAMETHASONE SODIUM PHOSPHATE,Hikma Pharmaceuticals USA Inc.,Steroids,Unavailable,Critical,2612,2019-02-08,"INTRA-ARTICULAR, INTRALESIONAL, INTRAMUSCULAR, INTRAVENOUS, SOFT TISSUE"
+Dexamethasone Sodium Phosphate Injection,DEXAMETHASONE SODIUM PHOSPHATE,"Fresenius Kabi USA, LLC",Steroids,Unavailable,Critical,2612,2019-02-08,"INTRAMUSCULAR, INTRAVENOUS"
+Dexamethasone Sodium Phosphate Injection,DEXAMETHASONE SODIUM PHOSPHATE,"Fresenius Kabi USA, LLC",Steroids,Unavailable,Critical,2612,2019-02-08,"INTRA-ARTICULAR, INTRALESIONAL, INTRAMUSCULAR, INTRAVENOUS, SOFT TISSUE"
+Atropine Sulfate Injection,ATROPINE SULFATE,"Accord Healthcare, Inc.,",Anticholinergics,Unavailable,Critical,2285,2020-01-01,INTRAVENOUS
+Atropine Sulfate Injection,ATROPINE SULFATE,"Accord Healthcare, Inc.,",Anticholinergics,Unavailable,Critical,2285,2020-01-01,INTRAVENOUS
+Midazolam Hydrochloride Injection,MIDAZOLAM HYDROCHLORIDE,Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.,Sedatives/Anesthesia,Unavailable,Critical,2193,2020-04-02,"INTRAMUSCULAR, INTRAVENOUS"
+Midazolam Hydrochloride Injection,,,Sedatives/Anesthesia,Unavailable,Critical,2193,2020-04-02,
+Midazolam Hydrochloride Injection,MIDAZOLAM,Hikma Pharmaceuticals USA Inc.,Sedatives/Anesthesia,Unavailable,Critical,2193,2020-04-02,"INTRAMUSCULAR, INTRAVENOUS"
+Midazolam Hydrochloride Injection,MIDAZOLAM,Hikma Pharmaceuticals USA Inc.,Sedatives/Anesthesia,Unavailable,Critical,2193,2020-04-02,"INTRAMUSCULAR, INTRAVENOUS"
+Midazolam Hydrochloride Injection,MIDAZOLAM,"Hospira, Inc.",Sedatives/Anesthesia,Unavailable,Critical,2193,2020-04-02,"INTRAMUSCULAR, INTRAVENOUS"
+Midazolam Hydrochloride Injection,MIDAZOLAM,"Fresenius Kabi USA, LLC",Sedatives/Anesthesia,Unavailable,Critical,2193,2020-04-02,"INTRAMUSCULAR, INTRAVENOUS"
+Midazolam Hydrochloride Injection,MIDAZOLAM HYDROCHLORIDE,Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.,Sedatives/Anesthesia,Unavailable,Critical,2193,2020-04-02,"INTRAMUSCULAR, INTRAVENOUS"
+Midazolam Hydrochloride Injection,MIDAZOLAM,"Fresenius Kabi USA, LLC",Sedatives/Anesthesia,Unavailable,Critical,2193,2020-04-02,"INTRAMUSCULAR, INTRAVENOUS"
+Midazolam Hydrochloride Injection,MIDAZOLAM,"Fresenius Kabi USA, LLC",Sedatives/Anesthesia,Unavailable,Critical,2193,2020-04-02,"INTRAMUSCULAR, INTRAVENOUS"
+Furosemide Injection,FUROSEMIDE,"Hospira, Inc.",Diuretics,Unavailable,Critical,2188,2020-04-07,"INTRAMUSCULAR, INTRAVENOUS"
+Furosemide Injection,FUROSEMIDE,"Hospira, Inc.",Diuretics,Unavailable,Critical,2188,2020-04-07,"INTRAMUSCULAR, INTRAVENOUS"
+Furosemide Injection,FUROSEMIDE,Sagent Pharmaceuticals,Diuretics,Unavailable,Critical,2188,2020-04-07,"INTRAMUSCULAR, INTRAVENOUS"
+Furosemide Injection,FUROSEMIDE,"Hospira, Inc.",Diuretics,Unavailable,Critical,2188,2020-04-07,"INTRAMUSCULAR, INTRAVENOUS"
+Furosemide Injection,FUROSEMIDE,Sagent Pharmaceuticals,Diuretics,Unavailable,Critical,2188,2020-04-07,"INTRAMUSCULAR, INTRAVENOUS"
+Furosemide Injection,FUROSEMIDE,Eugia US LLC,Diuretics,Unavailable,Critical,2188,2020-04-07,"INTRAMUSCULAR, INTRAVENOUS"
+Furosemide Injection,FUROSEMIDE,"Accord Healthcare, Inc.",Diuretics,Unavailable,Critical,2188,2020-04-07,"INTRAMUSCULAR, INTRAVENOUS"
+Furosemide Injection,FUROSEMIDE,Sagent Pharmaceuticals,Diuretics,Unavailable,Critical,2188,2020-04-07,"INTRAMUSCULAR, INTRAVENOUS"
+Furosemide Injection,FUROSEMIDE,Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.,Diuretics,Unavailable,Critical,2188,2020-04-07,INTRAVENOUS
+Furosemide Injection,FUROSEMIDE,"Accord Healthcare, Inc.",Diuretics,Unavailable,Critical,2188,2020-04-07,"INTRAMUSCULAR, INTRAVENOUS"
+Furosemide Injection,FUROSEMIDE,"Accord Healthcare, Inc.",Diuretics,Unavailable,Critical,2188,2020-04-07,"INTRAMUSCULAR, INTRAVENOUS"
+Furosemide Injection,FUROSEMIDE,Eugia US LLC,Diuretics,Unavailable,Critical,2188,2020-04-07,"INTRAMUSCULAR, INTRAVENOUS"
+Dexmedetomidine Hydrochloride Injection,DEXMEDETOMIDINE HYDROCHLORIDE,Eugia US LLC,Sedatives/Anesthesia,Unavailable,Critical,2185,2020-04-10,INTRAVENOUS
+Dexmedetomidine Hydrochloride Injection,DEXMEDETOMIDINE HCL,Hikma Pharmaceuticals USA Inc.,Sedatives/Anesthesia,Unavailable,Critical,2185,2020-04-10,INTRAVENOUS
+Dexmedetomidine Hydrochloride Injection,DEXMEDETOMIDINE HYDROCHLORIDE,"Fresenius Kabi USA, LLC",Sedatives/Anesthesia,Unavailable,Critical,2185,2020-04-10,INTRAVENOUS
+Dexmedetomidine Hydrochloride Injection,DEXMEDETOMIDINE HYDROCHLORIDE,"Fresenius Kabi USA, LLC",Sedatives/Anesthesia,Unavailable,Critical,2185,2020-04-10,INTRAVENOUS
+Dexmedetomidine Hydrochloride Injection,DEXMEDETOMIDINE HYDROCHLORIDE,Baxter Healthcare Company,Sedatives/Anesthesia,Unavailable,Critical,2185,2020-04-10,INTRAVENOUS
+Dexmedetomidine Hydrochloride Injection,PRECEDEX,"Hospira, Inc.",Sedatives/Anesthesia,Unavailable,Critical,2185,2020-04-10,INTRAVENOUS
+Dexmedetomidine Hydrochloride Injection,DEXMEDETOMIDINE HYDROCHLORIDE,"Fresenius Kabi USA, LLC",Sedatives/Anesthesia,Unavailable,Critical,2185,2020-04-10,INTRAVENOUS
+Dexmedetomidine Hydrochloride Injection,DEXMEDETOMIDINE,Accord Healthcare Inc.,Sedatives/Anesthesia,Unavailable,Critical,2185,2020-04-10,INTRAVENOUS
+Dexmedetomidine Hydrochloride Injection,DEXMEDETOMIDINE HYDROCHLORIDE,Mylan Institutional LLC,Sedatives/Anesthesia,Unavailable,Critical,2185,2020-04-10,INTRAVENOUS
+Dexmedetomidine Hydrochloride Injection,,,Sedatives/Anesthesia,Unavailable,Critical,2185,2020-04-10,
+Dexmedetomidine Hydrochloride Injection,DEXMEDETOMIDINE HYDROCHLORIDE,"Fresenius Kabi USA, LLC",Sedatives/Anesthesia,Unavailable,Critical,2185,2020-04-10,INTRAVENOUS
+Dexmedetomidine Hydrochloride Injection,PRECEDEX,"Hospira, Inc.",Sedatives/Anesthesia,Unavailable,Critical,2185,2020-04-10,INTRAVENOUS
+Dexmedetomidine Hydrochloride Injection,DEXMEDETOMIDINE HYDROCHLORIDE,Mylan Institutional LLC,Sedatives/Anesthesia,Unavailable,Critical,2185,2020-04-10,INTRAVENOUS
+Amino Acid Injection,TRAVASOL,Baxter Healthcare Corporation,Other,Unavailable,Critical,1943,2020-12-08,INTRAVENOUS
+Amino Acid Injection,AMINOSYN-PF,ICU Medical Inc.,Other,Unavailable,Critical,1943,2020-12-08,INTRAVENOUS
+Amino Acid Injection,AMINOSYN-PF,ICU Medical Inc.,Other,Unavailable,Critical,1943,2020-12-08,INTRAVENOUS
+Azacitidine Injection,AZACITIDINE,Eugia US LLC,Other,Unavailable,Critical,1929,2020-12-22,"INTRAVENOUS, SUBCUTANEOUS"
+Azacitidine Injection,AZACITIDINE,BluePoint Laboratories,Other,Unavailable,Critical,1929,2020-12-22,"INTRAVENOUS, SUBCUTANEOUS"
+Desmopressin Acetate Spray,,,Other,Unavailable,Critical,1849,2021-03-12,
+Desmopressin Acetate Spray,,,Other,Unavailable,Critical,1849,2021-03-12,
+Desmopressin Acetate Spray,,,Other,Unavailable,Critical,1849,2021-03-12,
+Triamcinolone Hexacetonide Injection,HEXATRIONE 2%,"Medexus Pharma, Inc.",Other,Unavailable,Critical,1796,2021-05-04,INTRA-ARTICULAR
+Sterile Water Injection,STERILE WATER,"Fresenius Kabi USA, LLC",Other,Unavailable,Critical,1593,2021-11-23,"INTRAMUSCULAR, INTRAVENOUS, SUBCUTANEOUS"
+Methylprednisolone Acetate Injection,METHYLPREDNISOLONE ACETATE,Eugia US LLC,Steroids,Unavailable,Critical,1571,2021-12-15,"INTRA-ARTICULAR, INTRALESIONAL, INTRAMUSCULAR, SOFT TISSUE"
+Methylprednisolone Acetate Injection,METHYLPREDNISOLONE ACETATE,Sagent Pharmaceuticals,Steroids,Unavailable,Critical,1571,2021-12-15,"INTRA-ARTICULAR, INTRALESIONAL, INTRAMUSCULAR, INTRASYNOVIAL, SOFT TISSUE"
+Methylprednisolone Acetate Injection,METHYLPREDNISOLONE ACETATE,Eugia US LLC,Steroids,Unavailable,Critical,1571,2021-12-15,"INTRA-ARTICULAR, INTRALESIONAL, INTRAMUSCULAR, SOFT TISSUE"
+Rifampin Capsule,RIFAMPIN,"EPIC PHARMA, LLC",Other,Unavailable,Critical,1564,2021-12-22,ORAL
+Rifampin Capsule,RIFAMPIN,"EPIC PHARMA, LLC",Other,Unavailable,Critical,1564,2021-12-22,ORAL
+Rifampin Capsule,RIFAMPIN,"EPIC PHARMA, LLC",Other,Unavailable,Critical,1564,2021-12-22,ORAL
+Rifampin Capsule,RIFAMPIN,"EPIC PHARMA, LLC",Other,Unavailable,Critical,1564,2021-12-22,ORAL
+Dextrose Monohydrate 50% Injection,,,IV Fluids,Unavailable,Critical,1542,2022-01-13,
+Metronidazole Injection,METRONIDAZOLE,"Sun Pharmaceutical Industries, Inc.",Antibiotics,Unavailable,Critical,1542,2022-01-13,INTRAVENOUS
+Dextrose Monohydrate 5% Injection,DEXTROSE,Baxter Healthcare Corporation,IV Fluids,Unavailable,Critical,1510,2022-02-14,INTRAVENOUS
+Dextrose Monohydrate 5% Injection,DEXTROSE,Baxter Healthcare Corporation,IV Fluids,Unavailable,Critical,1510,2022-02-14,INTRAVENOUS
+Conivaptan Hydrochloride Injection,,,Other,Unavailable,Critical,1482,2022-03-14,
+Sufentanil Citrate Injection,,,Other,Unavailable,Critical,1432,2022-05-03,
+Sufentanil Citrate Injection,,,Other,Unavailable,Critical,1432,2022-05-03,
+Sufentanil Citrate Injection,,,Other,Unavailable,Critical,1432,2022-05-03,
+Methylprednisolone Acetate Injection,METHYLPREDNISOLONE ACETATE,"Endo USA, Inc.",Steroids,Unavailable,Critical,1388,2022-06-16,"INTRA-ARTERIAL, INTRALESIONAL, INTRAMUSCULAR, SOFT TISSUE"
+Remifentanil Hydrochloride Injection,REMIFENTANIL HYDROCHLORIDE,"Fresenius Kabi USA, LLC",Other,Unavailable,Critical,1376,2022-06-28,INTRAVENOUS
+"Streptozocin Powder, For Solution",,,Other,Unavailable,Critical,1362,2022-07-12,
+Flurazepam Hydrochloride Capsule,,,Other,Unavailable,Critical,1340,2022-08-03,
+Flurazepam Hydrochloride Capsule,,,Other,Unavailable,Critical,1340,2022-08-03,
+Etomidate Injection,ETOMIDATE,Hikma Pharmaceuticals USA Inc.,Sedatives/Anesthesia,Unavailable,Critical,1277,2022-10-05,INTRAVENOUS
+Etomidate Injection,ETOMIDATE,Eugia US LLC,Sedatives/Anesthesia,Unavailable,Critical,1277,2022-10-05,INTRAVENOUS
+"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet","DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE","Aurolife Pharma, LLC",Other,Unavailable,Critical,1270,2022-10-12,ORAL
+"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet","DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE","Aurolife Pharma, LLC",Other,Unavailable,Critical,1270,2022-10-12,ORAL
+"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet","DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE",Oryza Pharmaceuticals Inc.,Other,Unavailable,Critical,1270,2022-10-12,ORAL
+"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet","DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE, AMPHETAMINE SULFATE TABLETS,CII",Alvogen Inc.,Other,Unavailable,Critical,1270,2022-10-12,ORAL
+"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet","DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE","Aurolife Pharma, LLC",Other,Unavailable,Critical,1270,2022-10-12,ORAL
+"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet","DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE",Oryza Pharmaceuticals Inc.,Other,Unavailable,Critical,1270,2022-10-12,ORAL
+"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet","DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE","Aurolife Pharma, LLC",Other,Unavailable,Critical,1270,2022-10-12,ORAL
+"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet","DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE","Aurolife Pharma, LLC",Other,Unavailable,Critical,1270,2022-10-12,ORAL
+"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet","DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE","Lannett Company, Inc.",Other,Unavailable,Critical,1270,2022-10-12,ORAL
+"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet","DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE",Oryza Pharmaceuticals Inc.,Other,Unavailable,Critical,1270,2022-10-12,ORAL
+"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",,,Other,Unavailable,Critical,1270,2022-10-12,
+"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet","DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE AND AMPHETAMINE SULFATE","Aurolife Pharma, LLC",Other,Unavailable,Critical,1270,2022-10-12,ORAL
+Quinapril Hydrochloride Tablet,,,Other,Unavailable,Critical,1171,2023-01-19,
+Quinapril/Hydrochlorothiazide Tablet,QUINAPRIL HYDROCHLORIDE/HYDROCHLOROTHIAZIDE,Aurobindo Pharma Limited,Diuretics,Unavailable,Critical,1171,2023-01-19,ORAL
+Quinapril Hydrochloride Tablet,QUINAPRIL,"Lupin Pharmaceuticals, Inc.",Other,Unavailable,Critical,1171,2023-01-19,ORAL
+Quinapril Hydrochloride Tablet,QUINAPRIL,"Lupin Pharmaceuticals, Inc.",Other,Unavailable,Critical,1171,2023-01-19,ORAL
+Quinapril Hydrochloride Tablet,QUINAPRIL,Aurobindo Pharma Limited,Other,Unavailable,Critical,1171,2023-01-19,ORAL
+Quinapril Hydrochloride Tablet,QUINAPRIL,"Solco Healthcare US, LLC",Other,Unavailable,Critical,1171,2023-01-19,ORAL
+Quinapril Hydrochloride Tablet,QUINAPRIL,Aurobindo Pharma Limited,Other,Unavailable,Critical,1171,2023-01-19,ORAL
+Quinapril Hydrochloride Tablet,QUINAPRIL,"Lupin Pharmaceuticals, Inc.",Other,Unavailable,Critical,1171,2023-01-19,ORAL
+Quinapril Hydrochloride Tablet,QUINAPRIL,"Solco Healthcare US, LLC",Other,Unavailable,Critical,1171,2023-01-19,ORAL
+Quinapril/Hydrochlorothiazide Tablet,QUINAPRIL HYDROCHLORIDE/HYDROCHLOROTHIAZIDE,Aurobindo Pharma Limited,Diuretics,Unavailable,Critical,1171,2023-01-19,ORAL
+Quinapril Hydrochloride Tablet,QUINAPRIL,"Solco Healthcare US, LLC",Other,Unavailable,Critical,1171,2023-01-19,ORAL
+Quinapril/Hydrochlorothiazide Tablet,QUINAPRIL HYDROCHLORIDE/HYDROCHLOROTHIAZIDE,Aurobindo Pharma Limited,Diuretics,Unavailable,Critical,1171,2023-01-19,ORAL
+Quinapril Hydrochloride Tablet,QUINAPRIL,Aurobindo Pharma Limited,Other,Unavailable,Critical,1171,2023-01-19,ORAL
+Quinapril Hydrochloride Tablet,QUINAPRIL,"Solco Healthcare US, LLC",Other,Unavailable,Critical,1171,2023-01-19,ORAL
+Quinapril Hydrochloride Tablet,QUINAPRIL,Aurobindo Pharma Limited,Other,Unavailable,Critical,1171,2023-01-19,ORAL
+Rocuronium Bromide Injection,ROCURONIUM BROMIDE,Mylan Institutional LLC,Sedatives/Anesthesia,Unavailable,Critical,1144,2023-02-15,INTRAVENOUS
+Rocuronium Bromide Injection,ROCURONIUM BROMIDE,Eugia US LLC,Sedatives/Anesthesia,Unavailable,Critical,1144,2023-02-15,INTRAVENOUS
+Rocuronium Bromide Injection,ROCURONIUM BROMIDE,"XGen Pharmaceuticals DJB, Inc.",Sedatives/Anesthesia,Unavailable,Critical,1144,2023-02-15,INTRAVENOUS
+Rocuronium Bromide Injection,ROCURONIUM,"Fresenius Kabi USA, LLC",Sedatives/Anesthesia,Unavailable,Critical,1144,2023-02-15,INTRAVENOUS
+Clonazepam Tablet,CLONAZEPAM,Accord Healthcare Inc.,Other,Unavailable,Critical,1121,2023-03-10,ORAL
+Clindamycin Phosphate Injection,CLEOCIN PHOSPHATE,Pharmacia & Upjohn Company LLC,Antibiotics,Unavailable,Critical,1110,2023-03-21,"INTRAMUSCULAR, INTRAVENOUS"
+Clindamycin Phosphate Injection,CLEOCIN PHOSPHATE,Pharmacia & Upjohn Company LLC,Antibiotics,Unavailable,Critical,1110,2023-03-21,"INTRAMUSCULAR, INTRAVENOUS"
+Clindamycin Phosphate Injection,CLINDAMYCIN IN 5 PERCENT DEXTROSE,Sandoz Inc,Antibiotics,Unavailable,Critical,1110,2023-03-21,INTRAVENOUS
+Clindamycin Phosphate Injection,CLEOCIN PHOSPHATE,Pharmacia & Upjohn Company LLC,Antibiotics,Unavailable,Critical,1110,2023-03-21,"INTRAMUSCULAR, INTRAVENOUS"
+Clindamycin Phosphate Injection,CLINDAMYCIN PHOSPHATE,Baxter Healthcare Company,Antibiotics,Unavailable,Critical,1110,2023-03-21,INTRAVENOUS
+Clindamycin Phosphate Injection,CLINDAMYCIN PHOSPHATE,Baxter Healthcare Company,Antibiotics,Unavailable,Critical,1110,2023-03-21,INTRAVENOUS
+Clindamycin Phosphate Injection,CLINDAMYCIN PHOSPHATE,Baxter Healthcare Company,Antibiotics,Unavailable,Critical,1110,2023-03-21,INTRAVENOUS
+Carboplatin Injection,CARBOPLATIN,Apotex Corp.,Oncology,Unavailable,Critical,1072,2023-04-28,INTRAVENOUS
+Sterile Water Irrigant,STERILE WATER,Baxter Healthcare Corporation,Other,Unavailable,Critical,1072,2023-04-28,IRRIGATION
+Sterile Water Irrigant,STERILE WATER,Baxter Healthcare Corporation,Other,Unavailable,Critical,1072,2023-04-28,IRRIGATION
+Carboplatin Injection,CARBOPLATIN,"Accord Healthcare, Inc.",Oncology,Unavailable,Critical,1072,2023-04-28,INTRAVENOUS
+Carboplatin Injection,CARBOPLATIN,"Accord Healthcare, Inc.",Oncology,Unavailable,Critical,1072,2023-04-28,INTRAVENOUS
+Carboplatin Injection,CARBOPLATIN,Apotex Corp.,Oncology,Unavailable,Critical,1072,2023-04-28,INTRAVENOUS
+Carboplatin Injection,CARBOPLATIN,"Accord Healthcare, Inc.",Oncology,Unavailable,Critical,1072,2023-04-28,INTRAVENOUS
+Carboplatin Injection,CARBOPLATIN,"Accord Healthcare, Inc.",Oncology,Unavailable,Critical,1072,2023-04-28,INTRAVENOUS
+Sterile Water Irrigant,STERILE WATER,Baxter Healthcare Corporation,Other,Unavailable,Critical,1072,2023-04-28,IRRIGATION
+Carboplatin Injection,CARBOPLATIN,BPI Labs LLC,Oncology,Unavailable,Critical,1072,2023-04-28,INTRAVENOUS
+Carboplatin Injection,CARBOPLATIN,Apotex Corp.,Oncology,Unavailable,Critical,1072,2023-04-28,INTRAVENOUS
+Sterile Water Irrigant,STERILE WATER,ICU Medical Inc.,Other,Unavailable,Critical,1072,2023-04-28,IRRIGATION
+Sterile Water Irrigant,STERILE WATER,ICU Medical Inc.,Other,Unavailable,Critical,1072,2023-04-28,IRRIGATION
+Lisdexamfetamine Dimesylate Capsule,LISDEXAMFETAMINE DIMESYLATE,Amneal Pharmaceuticals LLC,Other,Unavailable,Critical,995,2023-07-14,ORAL
+Lisdexamfetamine Dimesylate Capsule,LISDEXAMFETAMINE DIMESYLATE,Mylan Pharmaceuticals Inc.,Other,Unavailable,Critical,995,2023-07-14,ORAL
+Lisdexamfetamine Dimesylate Capsule,LISDEXAMFETAMINE DIMESYLATE,Amneal Pharmaceuticals LLC,Other,Unavailable,Critical,995,2023-07-14,ORAL
+Lisdexamfetamine Dimesylate Capsule,LISDEXAMFETAMINE DIMESYLATE,Amneal Pharmaceuticals LLC,Other,Unavailable,Critical,995,2023-07-14,ORAL
+Lisdexamfetamine Dimesylate Capsule,LISDEXAMFETAMINE DIMESYLATE,Amneal Pharmaceuticals LLC,Other,Unavailable,Critical,995,2023-07-14,ORAL
+Lisdexamfetamine Dimesylate Capsule,LISDEXAMFETAMINE DIMESYLATE,SpecGx LLC,Other,Unavailable,Critical,995,2023-07-14,ORAL
+Lisdexamfetamine Dimesylate Capsule,LISDEXAMFETAMINE DIMESYLATE,Amneal Pharmaceuticals LLC,Other,Unavailable,Critical,995,2023-07-14,ORAL
+Lisdexamfetamine Dimesylate Capsule,LISDEXAMFETAMINE DIMESYLATE,Amneal Pharmaceuticals LLC,Other,Unavailable,Critical,995,2023-07-14,ORAL
+"Methylphenidate Hydrochloride Tablet, Extended Release",METHYLPHENIDATE HYDROCHLORIDE,SpecGx LLC,Other,Unavailable,Critical,983,2023-07-26,ORAL
+"Methylphenidate Hydrochloride Tablet, Extended Release",METHYLPHENIDATE HYDROCHLORIDE,"Sun Pharmaceutical Industries, Inc.",Other,Unavailable,Critical,983,2023-07-26,ORAL
+"Methylphenidate Hydrochloride Tablet, Extended Release",RELEXXII,"Vertical Pharmaceuticals, LLC",Other,Unavailable,Critical,983,2023-07-26,ORAL
+"Methylphenidate Hydrochloride Tablet, Extended Release",RELEXXII,"Vertical Pharmaceuticals, LLC",Other,Unavailable,Critical,983,2023-07-26,ORAL
+"Methylphenidate Hydrochloride Tablet, Extended Release",METHYLPHENIDATE HYDROCHLORIDE,"Lannett Company, Inc.",Other,Unavailable,Critical,983,2023-07-26,ORAL
+"Methylphenidate Hydrochloride Tablet, Extended Release",METHYLPHENIDATE HYDROCHLORIDE,"Sun Pharmaceutical Industries, Inc.",Other,Unavailable,Critical,983,2023-07-26,ORAL
+"Methylphenidate Hydrochloride Tablet, Extended Release",METHYLPHENIDATE HYDROCHLORIDE,"Sun Pharmaceutical Industries, Inc.",Other,Unavailable,Critical,983,2023-07-26,ORAL
+"Methylphenidate Hydrochloride Tablet, Extended Release",RELEXXII,"Vertical Pharmaceuticals, LLC",Other,Unavailable,Critical,983,2023-07-26,ORAL
+"Methylphenidate Hydrochloride Tablet, Extended Release",METHYLPHENIDATE HYDROCHLORIDE,"Sun Pharmaceutical Industries, Inc.",Other,Unavailable,Critical,983,2023-07-26,ORAL
+"Methylphenidate Hydrochloride Tablet, Extended Release",RELEXXII,"Vertical Pharmaceuticals, LLC",Other,Unavailable,Critical,983,2023-07-26,ORAL
+Propranolol Hydrochloride Injection,PROPRANOLOL HYDROCHLORIDE,Hikma Pharmaceuticals USA Inc.,Other,Unavailable,Critical,886,2023-10-31,INTRAVENOUS
+Promethazine Hydrochloride Injection,PROMETHAZINE HYDROCHLORIDE,"XGen Pharmaceuticals DJB, Inc.",GI/Antiemetics,Unavailable,Critical,865,2023-11-21,"INTRAMUSCULAR, INTRAVENOUS"
+Promethazine Hydrochloride Injection,PHENERGAN,Hikma Pharmaceuticals USA Inc.,GI/Antiemetics,Unavailable,Critical,865,2023-11-21,INTRAMUSCULAR
+Promethazine Hydrochloride Injection,PHENERGAN,Hikma Pharmaceuticals USA Inc.,GI/Antiemetics,Unavailable,Critical,865,2023-11-21,"INTRAMUSCULAR, INTRAVENOUS"
+Promethazine Hydrochloride Injection,PROMETHAZINE HYDROCHLORIDE,"XGen Pharmaceuticals DJB, Inc.",GI/Antiemetics,Unavailable,Critical,865,2023-11-21,"INTRAMUSCULAR, INTRAVENOUS"
+Promethazine Hydrochloride Injection,PROMETHAZINE HYDROCHLORIDE,Hikma Pharmaceuticals USA Inc.,GI/Antiemetics,Unavailable,Critical,865,2023-11-21,INTRAMUSCULAR
+Fentanyl Citrate Injection,FENTANYL CITRATE,Hikma Pharmaceuticals USA Inc.,Pain/Opioids,Unavailable,Critical,836,2023-12-20,INTRAVENOUS
+Fentanyl Citrate Injection,,,Pain/Opioids,Unavailable,Critical,836,2023-12-20,
+Fentanyl Citrate Injection,,,Pain/Opioids,Unavailable,Critical,836,2023-12-20,
+Fentanyl Citrate Injection,,,Pain/Opioids,Unavailable,Critical,836,2023-12-20,
+Technetium TC-99M Pyrophosphate Kit Injection,KIT FOR THE PREPARATION OF TECHNETIUM TC99M PYROPHOSPHATE,"Sun Pharmaceutical Industries, Inc.",Other,Unavailable,Critical,829,2023-12-27,INTRAVENOUS
+Technetium TC-99M Pyrophosphate Kit Injection,KIT FOR THE PREPARATION OF TECHNETIUM TC99M PYROPHOSPHATE,"Sun Pharmaceutical Industries, Inc.",Other,Unavailable,Critical,829,2023-12-27,INTRAVENOUS
+Riluzole Oral Suspension,TIGLUTIK,"EDW PHARMA, INC",Other,Unavailable,Critical,799,2024-01-26,ORAL
+Hydroxocobalamin Injection,HYDROXOCOBALAMIN,"Actavis Pharma, Inc.",Other,Unavailable,Critical,516,2024-11-04,INTRAMUSCULAR
+Bacitracin Ophthalmic Ointment,,,Other,Unavailable,Critical,397,2025-03-03,
+Meperidine Hydrochloride Injection,,,Other,Unavailable,Critical,309,2025-05-30,
+Meperidine Hydrochloride Injection,,,Other,Unavailable,Critical,309,2025-05-30,
+Meperidine Hydrochloride Injection,DEMEROL,"Hospira, Inc.",Other,Unavailable,Critical,309,2025-05-30,"INTRAMUSCULAR, INTRAVENOUS, SUBCUTANEOUS"
+Meperidine Hydrochloride Injection,MEPERIDINE HYDROCHLORIDE,Hikma Pharmaceuticals USA Inc.,Other,Unavailable,Critical,309,2025-05-30,"INTRAMUSCULAR, INTRAVENOUS, SUBCUTANEOUS"
+Meperidine Hydrochloride Injection,DEMEROL,"Hospira, Inc.",Other,Unavailable,Critical,309,2025-05-30,"INTRAMUSCULAR, INTRAVENOUS, SUBCUTANEOUS"
+Meperidine Hydrochloride Injection,DEMEROL,"Hospira, Inc.",Other,Unavailable,Critical,309,2025-05-30,"INTRAMUSCULAR, INTRAVENOUS, SUBCUTANEOUS"
+Meperidine Hydrochloride Injection,MEPERIDINE HYDROCHLORIDE,Hikma Pharmaceuticals USA Inc.,Other,Unavailable,Critical,309,2025-05-30,"INTRAMUSCULAR, INTRAVENOUS, SUBCUTANEOUS"
+Meperidine Hydrochloride Injection,,,Other,Unavailable,Critical,309,2025-05-30,
+Furosemide Oral Solution,FUROSEMIDE,Hikma Pharmaceuticals USA Inc.,Diuretics,Unavailable,Critical,4,2026-03-31,ORAL
+Furosemide Oral Solution,FUROSEMIDE,Hikma Pharmaceuticals USA Inc.,Diuretics,Unavailable,Critical,4,2026-03-31,ORAL
+Furosemide Oral Solution,FUROSEMIDE,Hikma Pharmaceuticals USA Inc.,Diuretics,Unavailable,Critical,4,2026-03-31,ORAL
