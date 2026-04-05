@@ -1,0 +1,38 @@
+vendor,total_shipments,late_shipments,on_time_rate,avg_delay_days,max_delay_days,severe_delay_rate,total_value_usd,avg_freight_cost,late_rate_score,severity_score,avg_delay_score,risk_score,risk_tier
+Cipla Limited,175,23,86.9,4.8,127,6.9,39658694.6,12515.2,7.616279069767438,10.0,10.0,8.81,High Risk
+Aurobindo Pharma Limited,668,94,85.9,4.4,192,6.4,91383710.7,9842.2,8.197674418604647,9.27536231884058,9.166666666666668,8.71,High Risk
+Bio-Rad Laboratories (France),28,4,85.7,2.1,35,3.6,1493378.5,7252.8,8.31395348837209,5.217391304347826,4.375000000000001,6.6,Medium Risk
+Scms From Rdc,5401,927,82.8,-8.1,165,2.8,1084849042.6,10873.6,10.0,4.057971014492753,0.0,6.22,Medium Risk
+"Orgenics, Ltd",754,98,87.0,0.8,83,1.5,147703351.0,16336.4,7.55813953488372,2.1739130434782608,1.666666666666667,4.76,Medium Risk
+Abbott Gmbh & Co. Kg,21,1,95.2,2.3,48,4.8,2342400.0,4248.4,2.7906976744186025,6.956521739130435,4.791666666666666,4.44,Medium Risk
+Sun Pharmaceutical Industries Ltd (Ranbaxy Laboratories Limited),9,1,88.9,0.3,3,0.0,690333.6,11632.5,6.45348837209302,0.0,0.625,3.35,Medium Risk
+Emcure Pharmaceuticals Ltd,41,2,95.1,1.4,39,2.4,5756840.4,5739.4,2.8488372093023284,3.4782608695652173,2.916666666666667,3.05,Low Risk
+"Shanghai Kehua Bioengineering Co.,Ltd.  (Khb)",70,2,97.1,1.1,49,2.9,7325764.5,34056.5,1.68604651162791,4.202898550724638,2.291666666666667,2.56,Low Risk
+Reinbold Export Import,12,1,91.7,-8.2,7,0.0,1246105.0,,4.825581395348834,0.0,0.0,2.41,Low Risk
+Strides Arcolab Limited,93,4,95.7,1.0,58,1.1,22485465.1,12596.0,2.4999999999999982,1.5942028985507248,2.0833333333333335,2.14,Low Risk
+Aspen Pharmacare,41,1,97.6,0.9,36,2.4,3164725.0,1890.4,1.3953488372093052,3.4782608695652173,1.875,2.12,Low Risk
+"Jsi R&T Institute, Inc.",37,1,97.3,-5.6,95,2.7,245897.6,,1.5697674418604666,3.9130434782608696,0.0,1.96,Low Risk
+"Standard Diagnostics, Inc.",98,4,95.9,0.3,30,0.0,8887045.9,13890.7,2.3837209302325544,0.0,0.625,1.32,Low Risk
+Abbvie Logistics (Formerly Abbott Logistics Bv),347,4,98.8,0.3,45,0.6,29448061.2,6361.9,0.6976744186046526,0.8695652173913043,0.625,0.73,Low Risk
+Orasure Technologies Inc.,56,1,98.2,0.5,28,0.0,1581202.5,4897.7,1.0465116279069748,0.0,1.0416666666666667,0.73,Low Risk
+S. Buys Wholesaler,715,11,98.5,-28.7,127,0.3,9891003.6,2962.3,0.8720930232558138,0.43478260869565216,0.0,0.57,Low Risk
+Merck Sharp & Dohme Idea Gmbh (Formally Merck Sharp & Dohme B.V.),68,1,98.5,-1.1,29,0.0,8776716.7,1424.2,0.8720930232558138,0.0,0.0,0.44,Low Risk
+"Trinity Biotech, Plc",356,1,99.7,0.1,43,0.3,20769341.2,8628.9,0.17441860465116113,0.43478260869565216,0.20833333333333337,0.26,Low Risk
+"Chembio Diagnostic Systems, Inc.",109,1,99.1,-4.1,24,0.0,8520709.6,6867.7,0.5232558139534916,0.0,0.0,0.26,Low Risk
+Hetero Labs Limited,277,2,99.3,-0.2,7,0.0,42881567.0,15005.7,0.40697674418604807,0.0,0.0,0.2,Low Risk
+Mylan Laboratories Ltd (Formerly Matrix Laboratories),317,2,99.4,-0.6,3,0.0,72213665.5,13067.0,0.34883720930232226,0.0,0.0,0.17,Low Risk
+Amstelfarma B.V.,7,0,100.0,0.0,0,0.0,98016.1,4962.0,0.0,0.0,0.0,0.0,Low Risk
+Lawrence Laboratories (Subsidiary Of Bristol Myers Squibb),18,0,100.0,0.0,0,0.0,730794.4,3152.4,0.0,0.0,0.0,0.0,Low Risk
+International Healthcare Distributors,10,0,100.0,0.0,0,0.0,411634.8,1100.2,0.0,0.0,0.0,0.0,Low Risk
+Ida Foundation,17,0,100.0,-13.5,0,0.0,74388.4,7691.9,0.0,0.0,0.0,0.0,Low Risk
+Hoffmann-La Roche Ltd Basel,23,0,100.0,0.0,0,0.0,1675900.2,3431.3,0.0,0.0,0.0,0.0,Low Risk
+Bristol-Myers Squibb,67,0,100.0,0.0,0,0.0,1971067.1,1191.1,0.0,0.0,0.0,0.0,Low Risk
+Glaxosmithkline Export Limited,20,0,100.0,0.0,0,0.0,3145376.7,7979.3,0.0,0.0,0.0,0.0,Low Risk
+Biolytical Laboratories Inc.,5,0,100.0,0.0,0,0.0,81224.4,3428.3,0.0,0.0,0.0,0.0,Low Risk
+Janssen Sciences Ireland Uc (Formerly Janssen R&D Ireland),7,0,100.0,0.0,0,0.0,84474.0,788.1,0.0,0.0,0.0,0.0,Low Risk
+Idis Limited,6,0,100.0,0.0,0,0.0,117951.3,180.0,0.0,0.0,0.0,0.0,Low Risk
+Novartis Pharma Services Ag,5,0,100.0,0.0,0,0.0,456065.4,9427.7,0.0,0.0,0.0,0.0,Low Risk
+Premier Medical Corporation Ltd.,12,0,100.0,-4.0,0,0.0,868202.5,7978.7,0.0,0.0,0.0,0.0,Low Risk
+Pharmacy Direct,326,0,100.0,0.0,0,0.0,873335.7,,0.0,0.0,0.0,0.0,Low Risk
+Micro Labs Limited,35,0,100.0,0.0,0,0.0,1457654.6,8093.8,0.0,0.0,0.0,0.0,Low Risk
+Zephyr Biomedicals,5,0,100.0,0.0,0,0.0,30450.0,338.2,0.0,0.0,0.0,0.0,Low Risk

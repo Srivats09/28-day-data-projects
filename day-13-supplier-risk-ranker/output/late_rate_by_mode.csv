@@ -1,0 +1,5 @@
+Shipment Mode,shipments,late_rate,avg_delay,avg_freight
+Ocean,371,17.5,5.9,12733.1
+Truck,2827,16.1,-9.5,10171.2
+Air Charter,650,11.5,-19.0,21052.1
+Air,6113,9.6,-3.8,10459.0
