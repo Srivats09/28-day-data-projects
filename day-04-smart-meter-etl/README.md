@@ -1,20 +1,14 @@
-# Day 4: Smart Meter Energy ETL Pipeline
+# Day 4: c
 
 **Industry:** Energy / Utilities  
 **Format:** Python script (.py)  
 **Skills:** ETL · pandas · sqlite3 · chunked processing · data validation · matplotlib
 
 ## Who uses this
-An energy analyst running weekly consumption reports from raw meter 
-data. This pipeline takes 2M+ rows of messy minute-level readings 
-and produces a clean, queryable SQLite database with hourly 
-aggregations ready for analysis.
+An energy analyst running weekly consumption reports from raw meter data. This pipeline takes 2M+ rows of messy minute-level readings and produces a clean, queryable SQLite database with hourly aggregations ready for analysis.
 
 ## Problem
-Raw smart meter data arrives as large, semicolon-separated files 
-with missing values, wrong types, and no structure. Without a 
-pipeline, analysts waste hours cleaning data manually before any 
-analysis can begin.
+Raw smart meter data arrives as large, semicolon-separated files with missing values, wrong types, and no structure. Without a pipeline, analysts waste hours cleaning data manually before any analysis can begin.
 
 ## ETL Pattern
 - **Extract** — loads 2,075,259 rows in chunks of 100k (memory efficient)
