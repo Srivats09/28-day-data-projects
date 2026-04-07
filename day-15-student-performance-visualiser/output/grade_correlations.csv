@@ -1,0 +1,17 @@
+,G3
+failures,-0.383
+alcohol_total,-0.134
+Dalc,-0.13
+age,-0.125
+Walc,-0.116
+traveltime,-0.103
+goout,-0.098
+health,-0.08
+freetime,-0.065
+absences,-0.046
+famrel,0.054
+Fedu,0.16
+studytime,0.162
+Medu,0.201
+G1,0.809
+G2,0.911
