@@ -1,0 +1,7 @@
+mode,shipments,total_co2e,avg_co2e_per_shipment,pct_of_total
+Air (Freight),182,6531.39,35.89,98.16
+Sea (Bulk),58,48.85,0.84,0.73
+Road (HGV),154,24.93,0.16,0.37
+Road (Van),93,23.48,0.25,0.35
+Sea (Container),177,22.83,0.13,0.34
+Rail (Freight),44,2.45,0.06,0.04

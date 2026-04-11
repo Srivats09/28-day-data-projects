@@ -1,0 +1,11 @@
+route,shipments,total_co2e,avg_co2e,total_saving
+London → Sydney,52,3556.38,68.39,3506272.2
+London → Mumbai,44,1100.02,25.0,1084524.12
+London → Dubai,48,972.63,20.26,958921.39
+London → New York,38,902.36,23.75,889648.27
+Southampton → Shanghai,58,48.85,0.84,0.0
+London → Singapore,37,19.42,0.52,0.0
+Bristol → Paris,48,17.06,0.36,14754.61
+Manchester → Berlin,56,13.57,0.24,11116.65
+Birmingham → Bristol,45,6.42,0.14,5553.91
+London → Edinburgh,43,6.33,0.15,5185.28

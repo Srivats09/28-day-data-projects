@@ -1,0 +1,6 @@
+route,total_saving_tonnes,mode,best_alt
+London → Sydney,3506.27,Air (Freight),Sea (Container)
+London → Mumbai,1084.52,Air (Freight),Sea (Container)
+London → Dubai,958.92,Air (Freight),Sea (Container)
+London → New York,889.65,Air (Freight),Sea (Container)
+Bristol → Paris,14.75,Road (Van),Rail (Freight)
