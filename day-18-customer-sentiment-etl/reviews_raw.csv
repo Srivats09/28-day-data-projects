@@ -1,0 +1,81 @@
+review_id,date,review_text,star_rating
+REV-0001,2024-01-01,Excellent seller. Item was as described and dispatched quickly. Very satisfied.,4
+REV-0002,2024-01-03,It arrived. Works. Not amazing but not bad either. Probably wouldn't reorder.,3
+REV-0003,2024-01-05,Outstanding! The build quality is top notch and customer support was very responsive.,4
+REV-0004,2024-01-07,Perfect purchase. Exactly as described and arrived ahead of schedule. Thank you!,5
+REV-0005,2024-01-10,Exceeded my expectations. The quality is outstanding and delivery was faster than promised.,5
+REV-0006,2024-01-12,Very disappointed. Item arrived damaged and customer service was unhelpful and slow.,2
+REV-0007,2024-01-14,"Delighted with my purchase. Fast shipping, great product, no issues whatsoever.",5
+REV-0008,2024-01-17,Love it! The quality is incredible for the price. Will definitely be recommending to friends.,4
+REV-0009,2024-01-19,Not bad. Works as described. Packaging was minimal but the item arrived intact.,3
+REV-0010,2024-01-21,Terrible customer service. Contacted them four times and never got a resolution.,2
+REV-0011,2024-01-23,Average product. Got what I paid for. Delivery was standard. No complaints.,3
+REV-0012,2024-01-26,Worst purchase I've made online. Item missing parts and support takes days to respond.,1
+REV-0013,2024-01-28,It arrived. Works. Not amazing but not bad either. Probably wouldn't reorder.,3
+REV-0014,2024-01-30,Love it! The quality is incredible for the price. Will definitely be recommending to friends.,5
+REV-0015,2024-02-02,Reasonable quality. Matches the description. Delivery was within the stated window.,3
+REV-0016,2024-02-04,"Delighted with my purchase. Fast shipping, great product, no issues whatsoever.",4
+REV-0017,2024-02-06,Excellent seller. Item was as described and dispatched quickly. Very satisfied.,5
+REV-0018,2024-02-08,Absolutely love this product! Arrived quickly and exactly as described. Will definitely order again.,5
+REV-0019,2024-02-11,It's okay. Works as expected but nothing remarkable. Packaging was a bit basic.,3
+REV-0020,2024-02-13,Five stars. Customer service was helpful and the product is exactly what I needed.,5
+REV-0021,2024-02-15,Extremely disappointed. Product failed after one use. Would give zero stars if I could.,2
+REV-0022,2024-02-18,Five stars. Customer service was helpful and the product is exactly what I needed.,5
+REV-0023,2024-02-20,"Not as described at all. Size is wrong, colour is wrong, quality is terrible. Refund please.",1
+REV-0024,2024-02-22,Could not be happier with this purchase. The product works great and looks even better.,5
+REV-0025,2024-02-24,Exceeded my expectations. The quality is outstanding and delivery was faster than promised.,4
+REV-0026,2024-02-27,Love it! The quality is incredible for the price. Will definitely be recommending to friends.,5
+REV-0027,2024-02-29,Love it! The quality is incredible for the price. Will definitely be recommending to friends.,4
+REV-0028,2024-03-02,Love it! The quality is incredible for the price. Will definitely be recommending to friends.,4
+REV-0029,2024-03-05,Misleading product description. What arrived looks nothing like what was advertised.,2
+REV-0030,2024-03-07,Great value for money. Works perfectly and the packaging was excellent. Highly recommend.,4
+REV-0031,2024-03-09,Terrible quality. Broke within a week of use. Complete waste of money. Avoid.,1
+REV-0032,2024-03-12,Extremely disappointed. Product failed after one use. Would give zero stars if I could.,2
+REV-0033,2024-03-14,"Not as described at all. Size is wrong, colour is wrong, quality is terrible. Refund please.",2
+REV-0034,2024-03-16,Really impressed with this. Better than the reviews suggested. Will be buying more.,4
+REV-0035,2024-03-18,Great value for money. Works perfectly and the packaging was excellent. Highly recommend.,5
+REV-0036,2024-03-21,Great value for money. Works perfectly and the packaging was excellent. Highly recommend.,4
+REV-0037,2024-03-23,Could not be happier with this purchase. The product works great and looks even better.,4
+REV-0038,2024-03-25,Shocking. Order arrived two weeks late with no communication. Product also faulty.,2
+REV-0039,2024-03-28,Reasonable quality. Matches the description. Delivery was within the stated window.,3
+REV-0040,2024-03-30,"Delighted with my purchase. Fast shipping, great product, no issues whatsoever.",4
+REV-0041,2024-04-01,Really impressed with this. Better than the reviews suggested. Will be buying more.,4
+REV-0042,2024-04-03,Decent enough. Does the job but I expected slightly better quality for the price.,3
+REV-0043,2024-04-06,Excellent seller. Item was as described and dispatched quickly. Very satisfied.,4
+REV-0044,2024-04-08,Excellent seller. Item was as described and dispatched quickly. Very satisfied.,5
+REV-0045,2024-04-10,Fantastic quality. My order arrived the next day and everything was in perfect condition.,5
+REV-0046,2024-04-13,Reasonable quality. Matches the description. Delivery was within the stated window.,3
+REV-0047,2024-04-15,Decent enough. Does the job but I expected slightly better quality for the price.,3
+REV-0048,2024-04-17,Not bad. Works as described. Packaging was minimal but the item arrived intact.,3
+REV-0049,2024-04-19,Could not be happier with this purchase. The product works great and looks even better.,4
+REV-0050,2024-04-22,Could not be happier with this purchase. The product works great and looks even better.,4
+REV-0051,2024-04-24,Great value for money. Works perfectly and the packaging was excellent. Highly recommend.,4
+REV-0052,2024-04-26,Reasonable quality. Matches the description. Delivery was within the stated window.,3
+REV-0053,2024-04-29,Not bad. Works as described. Packaging was minimal but the item arrived intact.,3
+REV-0054,2024-05-01,Wasted my money. The product is cheap and flimsy. Customer service ignored my complaint.,2
+REV-0055,2024-05-03,Decent enough. Does the job but I expected slightly better quality for the price.,3
+REV-0056,2024-05-06,Awful experience. Delivery took three weeks and the product stopped working on day one.,2
+REV-0057,2024-05-08,Average product. Got what I paid for. Delivery was standard. No complaints.,3
+REV-0058,2024-05-10,Absolutely love this product! Arrived quickly and exactly as described. Will definitely order again.,4
+REV-0059,2024-05-12,Misleading product description. What arrived looks nothing like what was advertised.,1
+REV-0060,2024-05-15,Absolutely love this product! Arrived quickly and exactly as described. Will definitely order again.,4
+REV-0061,2024-05-17,It arrived. Works. Not amazing but not bad either. Probably wouldn't reorder.,3
+REV-0062,2024-05-19,Shocking. Order arrived two weeks late with no communication. Product also faulty.,1
+REV-0063,2024-05-22,Product is fine. Does what it says on the box. Delivery was on time. Nothing special.,3
+REV-0064,2024-05-24,Five stars. Customer service was helpful and the product is exactly what I needed.,5
+REV-0065,2024-05-26,Amazing value. Premium quality at a fair price. Already recommended to three friends.,5
+REV-0066,2024-05-28,Misleading product description. What arrived looks nothing like what was advertised.,2
+REV-0067,2024-05-31,Average product. Got what I paid for. Delivery was standard. No complaints.,3
+REV-0068,2024-06-02,Average product. Got what I paid for. Delivery was standard. No complaints.,3
+REV-0069,2024-06-04,Awful experience. Delivery took three weeks and the product stopped working on day one.,1
+REV-0070,2024-06-07,Absolutely love this product! Arrived quickly and exactly as described. Will definitely order again.,5
+REV-0071,2024-06-09,Perfect purchase. Exactly as described and arrived ahead of schedule. Thank you!,4
+REV-0072,2024-06-11,Love it! The quality is incredible for the price. Will definitely be recommending to friends.,5
+REV-0073,2024-06-13,Superb product. Packaged securely and delivered fast. Exactly what I wanted.,4
+REV-0074,2024-06-16,Not bad. Works as described. Packaging was minimal but the item arrived intact.,3
+REV-0075,2024-06-18,Absolutely love this product! Arrived quickly and exactly as described. Will definitely order again.,5
+REV-0076,2024-06-20,"Delighted with my purchase. Fast shipping, great product, no issues whatsoever.",4
+REV-0077,2024-06-23,Shocking. Order arrived two weeks late with no communication. Product also faulty.,1
+REV-0078,2024-06-25,Great value for money. Works perfectly and the packaging was excellent. Highly recommend.,5
+REV-0079,2024-06-27,Absolutely love this product! Arrived quickly and exactly as described. Will definitely order again.,5
+REV-0080,2024-06-30,Perfect purchase. Exactly as described and arrived ahead of schedule. Thank you!,5
