@@ -20,6 +20,8 @@ Data:
     the CSV.
 """
 
+from email import message
+
 import pandas as pd
 import numpy as np
 import sqlite3
@@ -27,7 +29,7 @@ import matplotlib.pyplot as plt
 import json
 import os
 import time
-import anthropic
+from groq import Groq
 import warnings
 warnings.filterwarnings('ignore')
 
@@ -39,7 +41,10 @@ CHART_FILE = 'sentiment_trend.png'
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # ── Anthropic client ───────────────────────────────────────────
-client = anthropic.Anthropic()
+api_key = os.environ.get('GROQ_API_KEY')
+if not api_key:
+    raise ValueError('GROQ_API_KEY not set. Run: $env:GROQ_API_KEY = "your-key"')
+client = Groq(api_key=api_key)
 
 print('=' * 60)
 print('CUSTOMER REVIEW SENTIMENT ETL PIPELINE')
@@ -49,94 +54,31 @@ print('=' * 60)
 # ══════════════════════════════════════════════════════════════
 # EXTRACT — Generate realistic product reviews with dates
 # ══════════════════════════════════════════════════════════════
-print('\n[EXTRACT] Generating product reviews...')
+print('\n[EXTRACT] Loading TripAdvisor hotel reviews...')
 
-POSITIVE_REVIEWS = [
-    "Absolutely love this product! Arrived quickly and exactly as described. Will definitely order again.",
-    "Exceeded my expectations. The quality is outstanding and delivery was faster than promised.",
-    "Great value for money. Works perfectly and the packaging was excellent. Highly recommend.",
-    "Five stars. Customer service was helpful and the product is exactly what I needed.",
-    "Brilliant product. Easy to set up and works flawlessly. Very happy with my purchase.",
-    "Fantastic quality. My order arrived the next day and everything was in perfect condition.",
-    "Really impressed with this. Better than the reviews suggested. Will be buying more.",
-    "Perfect purchase. Exactly as described and arrived ahead of schedule. Thank you!",
-    "Love it! The quality is incredible for the price. Will definitely be recommending to friends.",
-    "Superb product. Packaged securely and delivered fast. Exactly what I wanted.",
-    "Outstanding! The build quality is top notch and customer support was very responsive.",
-    "Delighted with my purchase. Fast shipping, great product, no issues whatsoever.",
-    "Excellent seller. Item was as described and dispatched quickly. Very satisfied.",
-    "Could not be happier with this purchase. The product works great and looks even better.",
-    "Amazing value. Premium quality at a fair price. Already recommended to three friends.",
-]
+df_raw = pd.read_csv('reviews.csv')
+df_raw.columns = ['review_text', 'star_rating']
 
-NEUTRAL_REVIEWS = [
-    "Product is fine. Does what it says on the box. Delivery was on time. Nothing special.",
-    "It's okay. Works as expected but nothing remarkable. Packaging was a bit basic.",
-    "Average product. Got what I paid for. Delivery was standard. No complaints.",
-    "Decent enough. Does the job but I expected slightly better quality for the price.",
-    "It arrived. Works. Not amazing but not bad either. Probably wouldn't reorder.",
-    "Standard product. Delivery was fine. Instructions could be clearer but manageable.",
-    "Does what it says. Nothing more. Delivery took the expected time. Fair enough.",
-    "OK product. Took a while to arrive but it got here eventually. Nothing to write home about.",
-    "Reasonable quality. Matches the description. Delivery was within the stated window.",
-    "Not bad. Works as described. Packaging was minimal but the item arrived intact.",
-]
+# Sample 200 reviews for API rate limits
+df_raw = df_raw.dropna(subset=['review_text'])
+df_raw = df_raw.sample(200, random_state=42).reset_index(drop=True)
 
-NEGATIVE_REVIEWS = [
-    "Terrible quality. Broke within a week of use. Complete waste of money. Avoid.",
-    "Very disappointed. Item arrived damaged and customer service was unhelpful and slow.",
-    "Do not buy this. Completely different from the description. Returning immediately.",
-    "Awful experience. Delivery took three weeks and the product stopped working on day one.",
-    "Poor quality. Looks nothing like the photos. Packaging was inadequate and it arrived scratched.",
-    "Wasted my money. The product is cheap and flimsy. Customer service ignored my complaint.",
-    "Shocking. Order arrived two weeks late with no communication. Product also faulty.",
-    "Not as described at all. Size is wrong, colour is wrong, quality is terrible. Refund please.",
-    "Worst purchase I've made online. Item missing parts and support takes days to respond.",
-    "Extremely disappointed. Product failed after one use. Would give zero stars if I could.",
-    "Broken on arrival. Replacement took another two weeks. Still not working properly.",
-    "Misleading product description. What arrived looks nothing like what was advertised.",
-    "Dreadful. Three weeks waiting, wrong item sent, and no apology from support.",
-    "Defective product. The packaging was damaged and the item inside was broken.",
-    "Terrible customer service. Contacted them four times and never got a resolution.",
-]
+# Generate review IDs and synthetic dates spread over 6 months
+df_raw['review_id'] = [f'REV-{i+1:04d}' for i in range(len(df_raw))]
+dates = pd.date_range('2024-01-01', '2024-06-30', periods=200)
+df_raw['date'] = [d.strftime('%Y-%m-%d') for d in dates]
 
-# Generate 80 reviews spread across 6 months with realistic sentiment distribution
-dates = pd.date_range('2024-01-01', '2024-06-30', periods=80)
-rows = []
+# Convert 0/1 to readable rating
+df_raw['star_rating'] = df_raw['star_rating'].map({1: 5, 0: 1})
 
-for i, date in enumerate(dates):
-    # Simulate a trend: sentiment gets slightly worse mid-year then recovers
-    month = date.month
-    if month <= 2:
-        weights = [0.60, 0.25, 0.15]
-    elif month <= 4:
-        weights = [0.45, 0.25, 0.30]
-    else:
-        weights = [0.55, 0.25, 0.20]
+# Trim long reviews to avoid token limits
+df_raw['review_text'] = df_raw['review_text'].str[:500]
 
-    sentiment_bucket = np.random.choice(['positive', 'neutral', 'negative'], p=weights)
-
-    if sentiment_bucket == 'positive':
-        text = POSITIVE_REVIEWS[np.random.randint(0, len(POSITIVE_REVIEWS))]
-    elif sentiment_bucket == 'neutral':
-        text = NEUTRAL_REVIEWS[np.random.randint(0, len(NEUTRAL_REVIEWS))]
-    else:
-        text = NEGATIVE_REVIEWS[np.random.randint(0, len(NEGATIVE_REVIEWS))]
-
-    rows.append({
-        'review_id'   : f'REV-{i+1:04d}',
-        'date'        : date.strftime('%Y-%m-%d'),
-        'review_text' : text,
-        'star_rating' : {'positive': np.random.randint(4,6),
-                         'neutral' : np.random.randint(3,4),
-                         'negative': np.random.randint(1,3)}[sentiment_bucket]
-    })
-
-df_raw = pd.DataFrame(rows)
-df_raw.to_csv('reviews_raw.csv', index=False)
-print(f'  Reviews generated:    {len(df_raw)}')
+df_raw.to_csv('reviews_sampled.csv', index=False)
+print(f'  Reviews loaded:       {len(df_raw):,} (sampled from full dataset)')
 print(f'  Date range:           {df_raw["date"].min()} to {df_raw["date"].max()}')
-print(f'  Avg star rating:      {df_raw["star_rating"].mean():.2f}')
+print(f'  Rating distribution:')
+print(df_raw['star_rating'].value_counts().to_string())
 
 
 # ══════════════════════════════════════════════════════════════
@@ -157,29 +99,60 @@ Each element must have exactly these fields:
 Return ONLY the JSON array. No other text."""
 
 def tag_batch(reviews_batch):
-    """Send a batch of reviews to Claude and return parsed tags."""
     batch_input = json.dumps([
         {'review_id': r['review_id'], 'text': r['review_text']}
         for _, r in reviews_batch.iterrows()
     ])
 
-    message = client.messages.create(
-        model='claude-sonnet-4-20250514',
-        max_tokens=1000,
-        system=SYSTEM_PROMPT,
-        messages=[{'role': 'user', 'content': batch_input}]
-    )
-
-    response_text = message.content[0].text.strip()
-    # Strip markdown code fences if present
-    if response_text.startswith('```'):
-        response_text = response_text.split('```')[1]
-        if response_text.startswith('json'):
-            response_text = response_text[4:]
-    return json.loads(response_text.strip())
+    try:
+        message = client.chat.completions.create(
+            model='llama-3.1-8b-instant',
+            max_tokens=1500,
+            messages=[
+                {'role': 'system', 'content': SYSTEM_PROMPT},
+                {'role': 'user', 'content': batch_input}
+            ]
+        )
+        response_text = message.choices[0].message.content.strip()
+        if response_text.startswith('```'):
+            response_text = response_text.split('```')[1]
+            if response_text.startswith('json'):
+                response_text = response_text[4:]
+        return json.loads(response_text.strip())
+    except json.JSONDecodeError:
+        # Fallback — tag individually
+        results = []
+        for _, row in reviews_batch.iterrows():
+            try:
+                single = client.chat.completions.create(
+                    model='llama-3.1-8b-instant',
+                    max_tokens=200,
+                    messages=[
+                        {'role': 'system', 'content': SYSTEM_PROMPT},
+                        {'role': 'user', 'content': json.dumps([
+                            {'review_id': row['review_id'], 'text': row['review_text']}
+                        ])}
+                    ]
+                )
+                text = single.choices[0].message.content.strip()
+                if text.startswith('```'):
+                    text = text.split('```')[1]
+                    if text.startswith('json'):
+                        text = text[4:]
+                parsed = json.loads(text.strip())
+                results.extend(parsed if isinstance(parsed, list) else [parsed])
+            except Exception:
+                results.append({
+                    'review_id': row['review_id'],
+                    'sentiment': 'neutral',
+                    'theme': 'general',
+                    'urgency': 'low',
+                    'key_phrase': 'parse error'
+                })
+        return results
 
 # Process in batches of 10
-BATCH_SIZE = 10
+BATCH_SIZE = 5
 all_tags = []
 total_batches = (len(df_raw) + BATCH_SIZE - 1) // BATCH_SIZE
 
@@ -366,6 +339,7 @@ print()
 print('CX RECOMMENDATIONS:')
 print(f'  1. Address {n_high_urgency} high-urgency negative reviews immediately')
 print(f'  2. Investigate {worst_month} — highest negative rate of the period')
-print(f'  3. Focus improvement on: {neg_themes.index[0].replace("_", " ")}')
+if len(neg_themes) > 0:
+    print(f'  3. Focus improvement on: {neg_themes.index[0].replace("_", " ")}')
 print(f'  4. Run this pipeline weekly — early warning before trends worsen')
 print('=' * 60)
