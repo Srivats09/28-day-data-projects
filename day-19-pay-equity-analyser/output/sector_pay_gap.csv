@@ -1,0 +1,64 @@
+sector,employers,mean_gap,median_gap,avg_female_top_q,pct_severe
+Sports/Recreation,151,26.0,4.7,35.1,42.4
+Financial Support,86,24.9,23.0,28.9,66.3
+Insurance,59,24.6,20.6,34.2,64.4
+Veterinary,20,24.6,27.4,65.6,50.0
+Air Transport,37,23.7,22.7,18.3,54.1
+Construction,105,21.4,22.7,18.4,55.2
+Travel,35,20.4,16.7,48.0,57.1
+Finance,349,20.2,19.1,33.4,51.0
+Legal,58,19.0,20.8,51.1,46.6
+Specialist Construction,129,17.2,19.9,12.8,38.0
+Water Transport,20,16.6,14.9,22.7,50.0
+Architecture/Engineering,86,16.5,17.8,21.7,30.2
+Motor Trade,214,15.9,14.2,13.6,34.1
+Electrical Equipment,56,15.7,13.8,19.0,39.3
+Information Services,60,15.6,12.9,31.7,28.3
+Management Consulting,312,15.6,13.3,36.0,34.0
+Education,958,14.9,22.8,66.5,32.6
+Electronics,67,14.7,14.2,18.0,31.3
+Printing,23,14.6,14.7,19.7,26.1
+Publishing,84,14.5,14.0,39.5,21.4
+IT Services,325,13.9,15.0,24.6,29.5
+Utilities,69,13.4,14.3,19.9,27.5
+Telecoms,83,13.2,12.7,20.6,22.9
+Professional Services,148,13.0,12.0,35.6,20.3
+Business Support,515,12.4,11.2,35.5,26.0
+Research,71,12.3,9.6,41.0,11.3
+Real Estate,128,12.2,9.0,44.5,26.6
+Machinery,94,12.0,11.7,14.9,23.4
+Advertising,58,11.9,9.9,46.4,24.1
+Retail,349,11.9,6.2,53.1,20.6
+Film/TV,48,11.5,9.9,37.7,16.7
+Other,2132,11.4,12.3,52.1,20.6
+Libraries,41,11.0,11.0,39.4,24.4
+Wholesale,357,10.1,6.2,32.2,15.7
+Other Manufacturing,119,9.3,7.4,27.4,13.4
+Membership Orgs,43,9.3,7.2,52.4,4.7
+Healthcare,356,9.0,4.9,70.4,17.1
+Warehousing,103,8.9,6.8,24.2,13.6
+Rubber/Plastics,76,8.4,7.5,17.0,10.5
+Chemicals,83,7.8,4.1,30.8,9.6
+Water Supply,27,7.6,10.2,27.9,11.1
+Fabricated Metals,96,7.5,9.2,14.3,15.6
+Employment Agencies,281,6.9,5.7,39.4,17.1
+Public Admin,32,6.9,8.8,38.1,12.5
+Pharmaceuticals,53,6.7,4.3,39.2,11.3
+Wood Products,32,6.3,3.3,16.8,18.8
+Leasing,51,6.2,6.3,22.2,11.8
+Land Transport,221,6.0,6.0,15.1,6.8
+Hotels,164,5.9,2.0,47.6,1.8
+Food Manufacturing,253,5.9,3.3,30.7,4.3
+Facilities,170,5.8,5.0,43.7,8.2
+Personal Services,148,5.8,9.1,43.3,16.2
+Non-Metallic Minerals,31,5.7,7.8,18.2,9.7
+Other Transport,44,5.6,7.6,14.1,4.5
+Arts,41,5.5,4.7,53.8,4.9
+Food & Beverage,346,5.2,3.0,45.4,6.6
+Motor Vehicles,63,4.8,5.3,12.8,6.3
+Basic Metals,31,4.4,5.2,11.2,3.2
+Social Work,110,3.3,1.5,79.3,6.4
+Paper,34,3.2,4.4,22.2,8.8
+Residential Care,258,1.8,0.6,73.1,1.9
+Waste Management,41,1.6,3.9,19.1,2.4
+Security,54,1.5,3.0,20.1,5.6
