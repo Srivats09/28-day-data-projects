@@ -1,0 +1,83 @@
+specialty,providers,flagged,avg_anomaly_score,avg_charge_per_svc,avg_srvcs_per_bene,flag_rate_pct
+Micrographic Dermatologic Surgery,43,7,0.75,756.23,4.8,16.3
+Independent Diagnostic Testing Facility (IDTF),241,35,0.64,898.33,8.54,14.5
+Opioid Treatment Program,100,14,0.65,230.95,44.9,14.0
+Sports Medicine,219,29,0.67,229.19,9.93,13.2
+Osteopathic Manipulative Medicine,84,11,0.58,236.55,11.33,13.1
+Interventional Pain Management,178,23,0.67,414.62,16.67,12.9
+Colorectal Surgery (Proctology),182,23,0.77,826.58,2.35,12.6
+Gynecological Oncology,112,14,0.64,624.41,24.22,12.5
+Maxillofacial Surgery,75,9,0.7,578.05,2.5,12.0
+Radiation Oncology,579,69,0.66,526.85,12.63,11.9
+Cardiac Surgery,136,16,0.66,2404.94,2.56,11.8
+Infectious Disease,740,84,0.59,278.02,18.88,11.4
+Preventive Medicine,35,4,0.75,191.64,4.15,11.4
+Nuclear Medicine,56,6,0.62,493.32,3.35,10.7
+Oral Surgery (Dentist only),132,14,0.6,495.7,3.3,10.6
+Interventional Radiology,287,29,0.55,749.5,5.38,10.1
+Public Health or Welfare Agency,30,3,0.67,62.1,2.66,10.0
+Allergy/ Immunology,387,38,0.64,67.88,34.18,9.8
+Ambulatory Surgical Center,679,65,0.56,4634.93,6.58,9.6
+Advanced Heart Failure and Transplant Cardiology,95,9,0.75,326.05,2.78,9.5
+"Psychologist, Clinical",1511,139,0.76,211.4,11.89,9.2
+Dermatology,1493,134,0.54,231.88,6.47,9.0
+Ambulance Service Provider,1101,99,0.55,171.46,34.17,9.0
+Ophthalmology,2093,189,0.57,351.43,6.91,9.0
+Rheumatology,590,52,0.78,163.97,84.43,8.8
+Diagnostic Radiology,3762,330,0.47,229.59,3.76,8.8
+Clinical Cardiac Electrophysiology,283,25,0.67,325.71,3.8,8.8
+Pediatric Medicine,220,19,0.58,304.39,7.38,8.6
+Occupational Therapist in Private Practice,1201,102,0.74,77.05,38.6,8.5
+Certified Nurse Midwife,107,9,0.66,157.21,2.07,8.4
+Registered Dietitian or Nutrition Professional,286,24,0.74,89.4,4.65,8.4
+Anesthesiology Assistant,370,31,0.68,1461.32,1.03,8.4
+Surgical Oncology,154,13,0.63,1017.82,2.79,8.4
+Otolaryngology,1013,84,0.58,415.5,4.14,8.3
+Plastic and Reconstructive Surgery,435,36,0.54,1272.46,4.07,8.3
+Speech Language Pathologist,281,23,0.75,168.03,20.06,8.2
+Thoracic Surgery,292,24,0.55,1780.49,2.52,8.2
+Hand Surgery,200,16,0.68,422.27,4.84,8.0
+Optometry,3759,291,0.57,133.43,3.05,7.7
+Urology,1143,88,0.59,330.58,10.88,7.7
+Pain Management,344,26,0.63,467.54,10.84,7.6
+Hematology,106,8,0.66,272.87,47.76,7.5
+Critical Care (Intensivists),583,44,0.71,599.22,2.78,7.5
+Orthopedic Surgery,2589,191,0.57,613.62,6.6,7.4
+Neurosurgery,632,47,0.6,1926.17,2.71,7.4
+Anesthesiology,4717,348,0.6,1558.89,1.94,7.4
+Vascular Surgery,490,36,0.47,813.29,3.63,7.3
+Endocrinology,761,55,0.65,208.49,7.8,7.2
+Sleep Medicine,100,7,0.56,366.82,2.16,7.0
+Pulmonary Disease,1273,89,0.55,328.87,4.22,7.0
+Certified Registered Nurse Anesthetist (CRNA),6234,433,0.62,1485.36,1.1,6.9
+Cardiology,2318,160,0.51,291.8,3.5,6.9
+Clinical Laboratory,385,26,0.43,152.55,13.88,6.8
+Interventional Cardiology,555,38,0.59,389.82,3.24,6.8
+Audiologist,882,59,0.49,100.08,2.07,6.7
+Licensed Clinical Social Worker,2047,135,0.7,192.56,11.45,6.6
+Obstetrics & Gynecology,2771,184,0.54,293.58,3.3,6.6
+Physical Medicine and Rehabilitation,979,63,0.55,273.19,14.17,6.4
+Gastroenterology,1724,105,0.59,556.57,4.51,6.1
+Podiatry,1898,115,0.46,185.39,5.49,6.1
+Certified Clinical Nurse Specialist,179,11,0.47,333.77,5.35,6.1
+Psychiatry,2366,142,0.55,253.11,6.13,6.0
+Hospitalist,2344,137,0.51,338.74,2.76,5.8
+Centralized Flu,1134,65,0.77,47.53,4.26,5.7
+Chiropractic,3999,229,0.64,58.7,9.63,5.7
+Geriatric Medicine,199,11,0.54,272.1,4.11,5.5
+Physical Therapist in Private Practice,8958,485,0.6,73.78,32.36,5.4
+Internal Medicine,10877,568,0.49,265.44,5.83,5.2
+Medical Oncology,435,22,0.7,280.2,75.7,5.1
+Neurology,1877,96,0.43,357.4,11.24,5.1
+Hospice and Palliative Care,206,10,0.6,296.61,4.29,4.9
+General Practice,469,23,0.35,237.24,9.63,4.9
+Emergency Medicine,5742,260,0.55,764.78,1.79,4.5
+General Surgery,2475,108,0.36,866.74,2.91,4.4
+Family Practice,9960,424,0.45,196.63,6.03,4.3
+Pathology,1463,63,0.4,199.58,3.43,4.3
+Nurse Practitioner,22491,942,0.35,246.18,5.8,4.2
+Nephrology,1081,44,0.44,317.95,6.01,4.1
+Physician Assistant,12567,400,0.36,437.74,3.99,3.2
+Pharmacy,393,10,0.37,80.31,2351.67,2.5
+Hematology-Oncology,1009,24,0.55,222.12,198.08,2.4
+Mass Immunizer Roster Biller,3471,50,0.31,55.0,11.71,1.4
