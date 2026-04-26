@@ -2,17 +2,17 @@
 
 > **28 projects · 28 consecutive days · 12 industries · 25 real datasets**
 
-[Portfolio Chart](output/portfolio_chart.png)
+![Portfolio Chart](output/portfolio_chart.png)
 
 ---
 
 ## Executive Summary
 
-In just 28 days, I challenged myself to complete 28 analytics projects across 12 industries, working with 25 real-world datasets. What started as an intensive learning exercise quickly became one of the most rewarding ways to sharpen my ability to solve unfamiliar business problems, adapt to new domains, and deliver insights at speed.
+As a testament to exceptional speed and versatility, this data analyst accomplished an unprecedented 28 projects within a 28-day span, covering 12 diverse industries and incorporating 25 real-world datasets. This extraordinary endeavor showcases a breadth of skills and adaptability in navigating complex data challenges.
 
-Each project presented a different challenge. One day, I was uncovering a £29,030 revenue opportunity through retail basket analysis; the next, I was building a hospital readmission risk model that evaluated 202 hospitals and identified the highest-risk facilities. I developed a marketing dashboard that measured campaign effectiveness across channels, revealing an overall ROAS of 6.04x, with email delivering exceptional returns. In another project, I examined employee attrition, quantifying both the human impact and an estimated $20.4 million in turnover costs. I also built an energy demand forecasting model that achieved a MAPE of 7.24%, balancing accuracy with practical business application.
+One standout aspect of this portfolio is its sheer scale of insights, exemplified by the £29,030 revenue opportunity flagged in the Retail Basket Association Analyser on Day 2. Another notable achievement is the Hospital Readmission Risk Scorer, which accurately assessed 202 hospitals, identifying Oroville as the highest risk with a score of 8.13/10. Furthermore, the Ad Campaign SQL Dashboard demonstrated impressive return on ad spend (ROAS) metrics, with an overall ROAS of 6.04x and a remarkable 178.56x ROAS for email campaigns. The Employee Attrition Analyser, with its 16.1% attrition rate and $20.4M turnover cost, also sheds light on a critical business concern. Finally, the 7.24% mean absolute percentage error (MAPE) in the Energy Demand Forecasting project on Day 21 signifies impressive predictive capabilities.
 
-More than the numbers, this portfolio reflects how I approach analytics: with curiosity, structure, and a focus on impact. It demonstrates my ability to move quickly from raw data to clear recommendations, whether the problem involves customer behavior, operational efficiency, financial performance, or predictive modeling. Across every project, the goal remained the same—to turn data into decisions that matter.
+This portfolio showcases a data analyst with a broad skillset, adept at working with a wide range of industries, data types, and tools. With a keen eye for identifying actionable insights and a proven ability to distill complex findings into actionable results, this analyst demonstrates a compelling ability to drive business impact. By reviewing this extensive collection of projects, stakeholders can appreciate the analyst's capacity for delivering high-quality analysis, predictive modeling, and business-driven insights on a tight schedule – a testament to their skills as a data analyst and strategic problem-solver.
 
 ---
 
