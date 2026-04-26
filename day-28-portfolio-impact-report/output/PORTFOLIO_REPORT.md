@@ -2,7 +2,7 @@
 
 > **28 projects · 28 consecutive days · 12 industries · 25 real datasets**
 
-![Portfolio Chart](day-28-portfolio-impact-report/output/portfolio_chart.png)
+![Portfolio Chart](output/portfolio_chart.png)
 
 ---
 
